@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="263.79" height="918" version="1.1" viewBox="0 0 197.84 688.5" xmlns="http://www.w3.org/2000/svg">
+ <g class="graph" transform="matrix(3.191 0 0 3.191 12.764 675.74)">
+  <polygon points="58 -211.76 58 4 -4 4 -4 -211.76" fill="#fff" stroke="transparent"/>
+  <g class="node">
+   <title>1</title>
+   <ellipse cx="27" cy="-185.14" rx="27" ry="22.76" fill="#7ac5cd" stroke="#000"/>
+   <text x="27" y="-179.14" fill="#ffd700" font-family="'times bold'" font-size="20px" text-anchor="middle">1</text>
+  </g>
+  <g class="node">
+   <title>2</title>
+   <ellipse cx="27" cy="-103.88" rx="27" ry="22.76" fill="#7ac5cd" stroke="#000"/>
+   <text x="27" y="-97.879997" fill="#ffd700" font-family="'times bold'" font-size="20px" text-anchor="middle">2</text>
+  </g>
+  <g class="edge">
+   <title>1-&gt;2</title>
+   <path d="m27-162.48v25.78" fill="none" stroke="#000"/>
+   <polygon points="23.5 -136.51 30.5 -136.51 27 -126.51" stroke="#000"/>
+  </g>
+  <g class="node">
+   <title>3</title>
+   <ellipse cx="27" cy="-22.63" rx="27" ry="22.76" fill="#7ac5cd" stroke="#000"/>
+   <text x="27" y="-16.629999" fill="#ffd700" font-family="'times bold'" font-size="20px" text-anchor="middle">3</text>
+  </g>
+  <g class="edge">
+   <title>2-&gt;3</title>
+   <path d="m20.94-81.64c-0.66 8.17-0.85 17.68-0.56 26.61" fill="none" stroke="#000"/>
+   <polygon points="16.89 -54.72 23.88 -55.1 20.94 -44.92" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>3-&gt;2</title>
+   <path d="m33.06-44.92c0.66-8.18 0.85-17.7 0.56-26.63" fill="none" stroke="#000"/>
+   <polygon points="37.11 -71.85 30.12 -71.47 33.06 -81.64" stroke="#000"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="901" height="483.97" version="1.1" viewBox="0 0 675.75 362.97" xmlns="http://www.w3.org/2000/svg">
+	<g class="graph" transform="matrix(1.9307 0 0 1.9307 7.7229 355.25)">
+		<polygon points="346 -184 346 4 -4 4 -4 -184" fill="#fff" stroke="transparent"/>
+		<g class="node">
+			<title>S</title>
+			<ellipse cx="27" cy="-90" rx="27" ry="18" fill="none" stroke="#000"/>
+			<text x="27" y="-85.800003" font-family="Times, serif" font-size="14px" text-anchor="middle">S</text>
+		</g>
+		<g class="node">
+			<title>A</title>
+			<ellipse cx="99" cy="-162" rx="27" ry="18" fill="none" stroke="#000"/>
+			<text x="99" y="-157.8" font-family="Times, serif" font-size="14px" text-anchor="middle">A</text>
+		</g>
+		<g class="edge">
+			<title>S-&gt;A</title>
+			<path d="m42.27-105.27 34.17-34.17" fill="none" stroke="#000"/>
+			<polygon points="79.16 -137.21 74.21 -142.16 83.75 -146.75" stroke="#000"/>
+			<text x="55.849998" y="-126.55" font-family="Times, serif" font-size="14px" text-anchor="middle">3</text>
+		</g>
+		<g class="node">
+			<title>B</title>
+			<ellipse cx="99" cy="-90" rx="27" ry="18" fill="none" stroke="#000"/>
+			<text x="99" y="-85.800003" font-family="Times, serif" font-size="14px" text-anchor="middle">B</text>
+		</g>
+		<g class="edge">
+			<title>S-&gt;B</title>
+			<path d="m54.22-90h7.38" fill="none" stroke="#000"/>
+			<polygon points="61.74 -86.5 61.74 -93.5 71.74 -90" stroke="#000"/>
+			<text x="61.41" y="-94.199997" font-family="Times, serif" font-size="14px" text-anchor="middle">3</text>
+		</g>
+		<g class="node">
+			<title>C</title>
+			<ellipse cx="99" cy="-18" rx="27" ry="18" fill="none" stroke="#000"/>
+			<text x="99" y="-13.8" font-family="Times, serif" font-size="14px" text-anchor="middle">C</text>
+		</g>
+		<g class="edge">
+			<title>S-&gt;C</title>
+			<path d="m42.27-74.73 34.17 34.17" fill="none" stroke="#000"/>
+			<polygon points="74.21 -37.84 79.16 -42.79 83.75 -33.25" stroke="#000"/>
+			<text x="55.849998" y="-45.049999" font-family="Times, serif" font-size="14px" text-anchor="middle">4</text>
+		</g>
+		<g class="node">
+			<title>D</title>
+			<ellipse cx="243" cy="-162" rx="27" ry="18" fill="none" stroke="#000"/>
+			<text x="243" y="-157.8" font-family="Times, serif" font-size="14px" text-anchor="middle">D</text>
+		</g>
+		<g class="edge">
+			<title>A-&gt;D</title>
+			<path d="m126.09-162h79.28" fill="none" stroke="#000"/>
+			<polygon points="205.55 -158.5 205.55 -165.5 215.55 -162" stroke="#000"/>
+			<text x="162.23" y="-166.2" font-family="Times, serif" font-size="14px" text-anchor="middle">2</text>
+		</g>
+		<g class="edge">
+			<title>B-&gt;A</title>
+			<path d="m99-108.17v-25.41" fill="none" stroke="#000"/>
+			<polygon points="102.5 -133.59 95.5 -133.59 99 -143.59" stroke="#000"/>
+			<text x="92" y="-125.08" font-family="Times, serif" font-size="14px" text-anchor="middle">10</text>
+		</g>
+		<g class="edge">
+			<title>B-&gt;D</title>
+			<path d="m120.87-100.94c24.35-12.17 63.89-31.94 91.36-45.67" fill="none" stroke="#000"/>
+			<polygon points="214.02 -143.6 210.89 -149.86 221.4 -151.2" stroke="#000"/>
+			<text x="163.05" y="-127.97" font-family="Times, serif" font-size="14px" text-anchor="middle">1</text>
+		</g>
+		<g class="node">
+			<title>E</title>
+			<ellipse cx="243" cy="-18" rx="27" ry="18" fill="none" stroke="#000"/>
+			<text x="243" y="-13.8" font-family="Times, serif" font-size="14px" text-anchor="middle">E</text>
+		</g>
+		<g class="edge">
+			<title>C-&gt;E</title>
+			<path d="m126.09-18h79.28" fill="none" stroke="#000"/>
+			<polygon points="205.55 -14.5 205.55 -21.5 215.55 -18" stroke="#000"/>
+			<text x="162.23" y="-22.200001" font-family="Times, serif" font-size="14px" text-anchor="middle">5</text>
+		</g>
+		<g class="edge">
+			<title>D-&gt;C</title>
+			<path d="m227.86-146.86-106.08 106.08" fill="none" stroke="#000"/>
+			<polygon points="118.97 -42.91 123.91 -37.97 114.37 -33.37" stroke="#000"/>
+			<text x="171.32001" y="-98.019997" font-family="Times, serif" font-size="14px" text-anchor="middle">1</text>
+		</g>
+		<g class="edge">
+			<title>D-&gt;E</title>
+			<path d="m243-143.76v97.41" fill="none" stroke="#000"/>
+			<polygon points="239.5 -46.09 246.5 -46.09 243 -36.09" stroke="#000"/>
+			<text x="239.5" y="-99.260002" font-family="Times, serif" font-size="14px" text-anchor="middle">1</text>
+		</g>
+		<g class="node">
+			<title>T</title>
+			<ellipse cx="315" cy="-90" rx="27" ry="18" fill="none" stroke="#000"/>
+			<text x="315" y="-85.800003" font-family="Times, serif" font-size="14px" text-anchor="middle">T</text>
+		</g>
+		<g class="edge">
+			<title>D-&gt;T</title>
+			<path d="m258.27-146.73 34.17 34.17" fill="none" stroke="#000"/>
+			<polygon points="290.21 -109.84 295.16 -114.79 299.75 -105.25" stroke="#000"/>
+			<text x="271.85001" y="-117.05" font-family="Times, serif" font-size="14px" text-anchor="middle">2</text>
+		</g>
+		<g class="edge">
+			<title>E-&gt;T</title>
+			<path d="m258.27-33.27 34.17-34.17" fill="none" stroke="#000"/>
+			<polygon points="295.16 -65.21 290.21 -70.16 299.75 -74.75" stroke="#000"/>
+			<text x="271.85001" y="-54.549999" font-family="Times, serif" font-size="14px" text-anchor="middle">5</text>
+		</g>
+	</g>
+</svg>

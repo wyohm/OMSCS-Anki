@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="500" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs">
+  <marker id="Arrow1Lend" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <g transform="translate(0 -244.09)">
+  <g id="axes">
+   <path id="axis-v" d="m400 743.75v-490.32-8.9837" fill="#babdb6" fill-rule="evenodd" marker-mid="url(#Arrow1Lend)" stroke="#000"/>
+   <switch fill="#000000" font-family="Bitstream Vera Sans" font-size="12.835px" text-align="center" text-anchor="middle" style="line-height:125%">
+    <text id="complexity-ro" transform="rotate(-90)" x="-604.09448" y="394.52811" text-align="center" style="line-height:125%" systemLanguage="ro" xml:space="preserve"><tspan id="tspan4945-ro" x="-604.09448" y="394.52811">Complexitate</tspan></text>
+    <text id="complexity" transform="rotate(-90)" x="-604.09448" y="394.52811" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="-604.09448" y="394.52811">Complexity</tspan></text>
+   </switch>
+   <path id="axis-h" d="m0 644.09h800" fill="none" stroke="#000" stroke-dasharray="1, 6"/>
+  </g>
+  <switch fill="#000000" font-family="Serif" font-size="24px" text-align="center" text-anchor="middle" style="line-height:125%">
+   <text id="neq-math-ro" x="199.77734" y="703.30811" text-align="center" style="line-height:125%" systemLanguage="ro" xml:space="preserve"><tspan id="tspan3330-ro" x="199.77734" y="703.30811">P ≠ NP</tspan></text>
+   <text id="neq-math" x="199.77734" y="703.30811" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="199.77734" y="703.30811">P ≠ NP</tspan></text>
+  </switch>
+  <switch fill="#000000" font-family="Serif" font-size="24px" text-align="center" text-anchor="middle" style="line-height:125%">
+   <text id="eq-math-ro" x="599.77734" y="703.30811" text-align="center" style="line-height:125%" systemLanguage="ro" xml:space="preserve"><tspan id="tspan3358-ro" x="599.77734" y="703.30811">P = NP</tspan></text>
+   <text id="eq-math" x="599.77734" y="703.30811" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="599.77734" y="703.30811">P = NP</tspan></text>
+  </switch>
+  <g id="neq-diag">
+   <path transform="matrix(.73562 0 0 .73562 114.69 269.46)" d="m284.26 339.63a168.29 168.29 0 1 1-336.58 0 168.29 168.29 0 1 1 336.58 0z" fill="none" stroke="#000" stroke-width="2.7188"/>
+   <path d="m40 244.09c0 140 60 260 160 260s160-120 160-260" fill="none" stroke="#000"/>
+   <switch fill="#000000" font-family="Bitstream Vera Sans" font-size="22.502px" text-align="center" text-anchor="middle" style="line-height:125%">
+    <text id="text3334-ro" x="199.91759" y="333.68689" text-align="center" style="line-height:125%" systemLanguage="ro" xml:space="preserve"><tspan id="tspan3336-ro" x="199.91759" y="333.68689">NP-tari</tspan></text>
+    <text x="199.91759" y="333.68689" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="199.91759" y="333.68689">NP-Hard</tspan></text>
+   </switch>
+   <switch fill="#000000" font-family="Bitstream Vera Sans" font-size="22.502px" text-align="center" text-anchor="middle" style="line-height:125%">
+    <text id="text3338-ro" x="199.49458" y="459.33737" text-align="center" style="line-height:125%" systemLanguage="ro" xml:space="preserve"><tspan id="tspan3340-ro" x="199.49458" y="459.33737">NP-complete</tspan></text>
+    <text x="199.49458" y="459.33737" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="199.49458" y="459.33737">NP-Complete</tspan></text>
+   </switch>
+   <path transform="matrix(.8444 0 0 .76873 -1.9585 329.78)" d="m336.61 345.47a97.441 62.008 0 1 1-194.88 0 97.441 62.008 0 1 1 194.88 0z" fill="none" stroke="#000" stroke-dasharray="2.48238675, 2.48238675" stroke-width="2.4824"/>
+   <switch fill="#000000" font-family="Bitstream Vera Sans" font-size="22.502px" text-align="center" text-anchor="middle" style="line-height:125%">
+    <text id="text3346-ro" x="199.28583" y="603.55432" text-align="center" style="line-height:125%" systemLanguage="ro" xml:space="preserve"><tspan id="tspan3348-ro" x="199.28583" y="603.55432">P</tspan></text>
+    <text x="199.28583" y="603.55432" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="199.28583" y="603.55432">P</tspan></text>
+   </switch>
+   <switch fill="#000000" font-family="Bitstream Vera Sans" font-size="22.502px" text-align="center" text-anchor="middle" style="line-height:125%">
+    <text id="text3350-ro" x="111.67521" y="527.99121" text-align="center" style="line-height:125%" systemLanguage="ro" xml:space="preserve"><tspan id="tspan3352-ro" x="111.67521" y="527.99121">NP</tspan></text>
+    <text x="111.67521" y="527.99121" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="111.67521" y="527.99121">NP</tspan></text>
+   </switch>
+  </g>
+  <g id="eq-diag">
+   <path transform="matrix(.73562 0 0 .73562 514.69 269.46)" d="m284.26 339.63a168.29 168.29 0 1 1-336.58 0 168.29 168.29 0 1 1 336.58 0z" fill="none" stroke="#000" stroke-width="2.7188"/>
+   <path d="m440 244.09c0 200 17.699 399.49 160 399.49s160-199.49 160-399.49" fill="none" stroke="#000"/>
+   <switch fill="#000000" font-family="Bitstream Vera Sans" font-size="22.502px" text-align="center" text-anchor="middle" style="line-height:125%">
+    <text id="text3362-ro" x="599.9176" y="333.73788" text-align="center" style="line-height:125%" systemLanguage="ro" xml:space="preserve"><tspan id="tspan3364-ro" x="599.9176" y="333.73788">NP-tari</tspan></text>
+    <text x="599.9176" y="333.73788" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="599.9176" y="333.73788">NP-Hard</tspan></text>
+   </switch>
+   <switch fill="#000000" font-family="Bitstream Vera Sans" font-size="22.502px" text-align="center" text-anchor="middle" style="line-height:125%">
+    <text id="text3372-ro" x="599.49457" y="511.09412" text-align="center" style="line-height:125%" systemLanguage="ro" xml:space="preserve"><tspan id="tspan3200-ro" x="599.49457" y="511.09412">P = NP</tspan><tspan id="tspan3210-ro" x="599.49457" y="539.22174">≃ NP-complete</tspan></text>
+    <text x="599.49457" y="511.09412" text-align="center" style="line-height:125%" xml:space="preserve"><tspan x="599.49457" y="511.09412">P = NP</tspan><tspan x="599.49457" y="539.22174">≃ NP-Complete</tspan></text>
+   </switch>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="790.84" height="955.41" version="1.1" viewBox="0 0 593.13 716.56" xmlns="http://www.w3.org/2000/svg">
+ <g class="graph" transform="matrix(1.8441 0 0 1.8441 27.89 691.01)">
+  <polygon points="-4 4 -4 -369.36 306.52 -369.36 306.52 4" fill="#fff" stroke="transparent"/>
+  <g class="node">
+   <title>A</title>
+   <ellipse cx="112.21" cy="-347.36" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="112.21" y="-343.16" font-family="Times, serif" font-size="14px" text-anchor="middle">A</text>
+  </g>
+  <g class="node">
+   <title>B</title>
+   <ellipse cx="158.64" cy="-280.61" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="158.64" y="-276.41" font-family="Times, serif" font-size="14px" text-anchor="middle">B</text>
+  </g>
+  <g class="edge">
+   <title>A-&gt;B</title>
+   <path d="m123.69-330.86c5.26 7.56 11.61 16.7 17.45 25.09" fill="none" stroke="#000"/>
+   <polygon points="146.98 -297.39 138.39 -303.6 144.14 -307.59" stroke="#000"/>
+  </g>
+  <g class="node">
+   <title>D</title>
+   <ellipse cx="207.26" cy="-345.78" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="207.25999" y="-341.57999" font-family="Times, serif" font-size="14px" text-anchor="middle">D</text>
+  </g>
+  <g class="node">
+   <title>C</title>
+   <ellipse cx="219.33" cy="-222.9" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="219.33" y="-218.7" font-family="Times, serif" font-size="14px" text-anchor="middle">C</text>
+  </g>
+  <g class="edge">
+   <title>B-&gt;C</title>
+   <path d="m174.27-265.75c6.6 6.28 14.43 13.73 21.7 20.63" fill="none" stroke="#000"/>
+   <polygon points="203.54 -237.91 193.88 -242.27 198.71 -247.34" stroke="#000"/>
+  </g>
+  <g class="node">
+   <title>E</title>
+   <ellipse cx="89.44" cy="-231.07" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="89.440002" y="-226.87" font-family="Times, serif" font-size="14px" text-anchor="middle">E</text>
+  </g>
+  <g class="edge">
+   <title>B-&gt;D</title>
+   <path d="m170.91-297.06c5.51-7.38 12.13-16.25 18.2-24.39" fill="none" stroke="#000"/>
+   <polygon points="195.16 -329.57 191.99 -319.46 186.38 -323.64" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>B-&gt;E</title>
+   <path d="m145.97-264.41c-6.94 6.01-15.82 12.71-24.49 18.57" fill="none" stroke="#000"/>
+   <polygon points="112.96 -240.31 119.45 -248.69 123.26 -242.82" stroke="#000"/>
+  </g>
+  <g class="node">
+   <title>F</title>
+   <ellipse cx="212.19" cy="-141.9" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="212.19" y="-137.7" font-family="Times, serif" font-size="14px" text-anchor="middle">F</text>
+  </g>
+  <g class="edge">
+   <title>C-&gt;F</title>
+   <path d="m217.74-204.92c-0.9 10.2-2.04 23.21-3.06 34.75" fill="none" stroke="#000"/>
+   <polygon points="213.79 -160.11 211.18 -170.38 218.16 -169.76" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>E-&gt;B</title>
+   <path d="m102.11-247.28c6.94-6 15.82-12.71 24.49-18.57" fill="none" stroke="#000"/>
+   <polygon points="135.12 -271.37 128.64 -263 124.83 -268.87" stroke="#000"/>
+  </g>
+  <g class="node">
+   <title>L</title>
+   <ellipse cx="78.61" cy="-150.47" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="78.610001" y="-146.27" font-family="Times, serif" font-size="14px" text-anchor="middle">L</text>
+  </g>
+  <g class="edge">
+   <title>E-&gt;L</title>
+   <path d="m86.98-212.78c-1.36 10.17-3.09 23.03-4.63 34.43" fill="none" stroke="#000"/>
+   <polygon points="81.02 -168.41 78.88 -178.79 85.82 -177.86" stroke="#000"/>
+  </g>
+  <g class="node">
+   <title>G</title>
+   <ellipse cx="275.52" cy="-176.12" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="275.51999" y="-171.92" font-family="Times, serif" font-size="14px" text-anchor="middle">G</text>
+  </g>
+  <g class="edge">
+   <title>F-&gt;G</title>
+   <path d="m227.24-157.03c4.18-2.72 8.88-5.48 13.67-8.06" fill="none" stroke="#000"/>
+   <polygon points="250.13 -169.77 242.79 -162.12 239.63 -168.36" stroke="#000"/>
+  </g>
+  <g class="node">
+   <title>I</title>
+   <ellipse cx="145.22" cy="-95.08" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="145.22" y="-90.879997" font-family="Times, serif" font-size="14px" text-anchor="middle">I</text>
+  </g>
+  <g class="edge">
+   <title>F-&gt;I</title>
+   <path d="m193.53-128.86c-6.42 4.49-13.75 9.62-20.73 14.5" fill="none" stroke="#000"/>
+   <polygon points="164.24 -108.38 170.43 -116.98 174.44 -111.24" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>L-&gt;I</title>
+   <path d="m95.76-136.21c7.4 6.16 16.21 13.48 24.32 20.23" fill="none" stroke="#000"/>
+   <polygon points="127.89 -109.49 117.97 -113.19 122.44 -118.57" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>G-&gt;C</title>
+   <path d="m258.35-190.41c-4.46-3.71-9.36-7.8-14.14-11.77" fill="none" stroke="#000"/>
+   <polygon points="236.39 -208.69 246.31 -204.99 241.83 -199.61" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>G-&gt;F</title>
+   <path d="m260.47-160.99c-4.18 2.72-8.88 5.48-13.68 8.06" fill="none" stroke="#000"/>
+   <polygon points="237.58 -148.25 244.91 -155.9 248.08 -149.66" stroke="#000"/>
+  </g>
+  <g class="node">
+   <title>H</title>
+   <ellipse cx="152.75" cy="-18" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="152.75" y="-13.8" font-family="Times, serif" font-size="14px" text-anchor="middle">H</text>
+  </g>
+  <g class="edge">
+   <title>H-&gt;I</title>
+   <path d="m150.97-36.27c-0.89-9.12-1.99-20.35-2.99-30.55" fill="none" stroke="#000"/>
+   <polygon points="146.99 -76.94 151.45 -67.33 144.48 -66.65" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>I-&gt;J</title>
+   <path d="m129.97-80.19c-5.87 5.73-12.7 12.4-19.11 18.66" fill="none" stroke="#000"/>
+   <polygon points="103.61 -54.44 108.32 -63.94 113.21 -58.93" stroke="#000"/>
+  </g>
+  <g class="node">
+   <title>J</title>
+   <ellipse cx="88.32" cy="-39.51" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="88.32" y="-35.310001" font-family="Times, serif" font-size="14px" text-anchor="middle">J</text>
+  </g>
+  <g class="edge">
+   <title>H-&gt;J</title>
+   <path d="m125.57-20.12c-2.89-0.83-5.83-1.77-8.74-2.76" fill="none" stroke="#000"/>
+   <polygon points="107.26 -26.47 117.86 -26.24 115.4 -19.68" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>J-&gt;H</title>
+   <path d="m115.51-37.4c2.88 0.84 5.82 1.77 8.73 2.77" fill="none" stroke="#000"/>
+   <polygon points="133.81 -31.04 123.22 -31.27 125.67 -37.83" stroke="#000"/>
+  </g>
+  <g class="node">
+   <title>K</title>
+   <ellipse cx="27" cy="-91.02" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="27" y="-86.82" font-family="Times, serif" font-size="14px" text-anchor="middle">K</text>
+  </g>
+  <g class="edge">
+   <title>J-&gt;K</title>
+   <path d="m71.24-53.86c-5.98-5.02-12.83-10.77-19.31-16.22" fill="none" stroke="#000"/>
+   <polygon points="43.99 -76.75 53.9 -72.99 49.4 -67.63" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>K-&gt;L</title>
+   <path d="m40.56-106.64c5.41-6.23 11.75-13.54 17.69-20.38" fill="none" stroke="#000"/>
+   <polygon points="64.96 -134.75 61.05 -124.9 55.76 -129.49" stroke="#000"/>
+  </g>
+ </g>
+ <ellipse cx="234.23" cy="50.649" rx="88.533" ry="50.649" fill="#00ff04" fill-opacity=".5" stop-color="#000000" style="-inkscape-stroke:none"/>
+ <ellipse cx="423.24" cy="57.238" rx="86.474" ry="53.12" fill="#ff0400" fill-opacity=".49569" stop-color="#000000" style="-inkscape-stroke:none"/>
+ <g fill-opacity=".5">
+  <ellipse transform="matrix(.89053 -.45492 .45267 .89168 0 0)" cx="129.73" cy="307.71" rx="145.46" ry="83.414" fill="#ff9600" stop-color="#000000" style="-inkscape-stroke:none"/>
+  <ellipse cx="459.47" cy="356.6" rx="132.59" ry="120.24" fill="#7900ff" stop-color="#000000" style="-inkscape-stroke:none"/>
+  <ellipse transform="matrix(.80638 .5914 -.62168 .78327 0 0)" cx="500.7" cy="303.81" rx="242.08" ry="144.45" fill="#00d2ff" stop-color="#000000" style="-inkscape-stroke:none"/>
+ </g>
+</svg>

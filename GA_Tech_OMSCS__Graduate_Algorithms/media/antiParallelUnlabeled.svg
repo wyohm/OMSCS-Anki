@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="901" height="483.97" version="1.1" viewBox="0 0 675.75 362.97" xmlns="http://www.w3.org/2000/svg">
+ <g class="graph" transform="matrix(1.9307 0 0 1.9307 7.7229 355.25)">
+  <ellipse cx="173.02" cy="-89.517" rx="17.946" ry="61.668" fill="none" stroke="#ff0006" stroke-width="1.4081"/>
+  <polygon points="346 -184 346 4 -4 4 -4 -184" fill="none" stroke="transparent"/>
+  <g class="node">
+   <title>A</title>
+   <ellipse cx="171" cy="-162" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="171" y="-157.8" font-family="Times, serif" font-size="14px" text-anchor="middle">A</text>
+  </g>
+  <g class="node">
+   <title>B</title>
+   <ellipse cx="171" cy="-18" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="171" y="-13.8" font-family="Times, serif" font-size="14px" text-anchor="middle">B</text>
+  </g>
+  <g class="edge">
+   <title>A-&gt;B</title>
+   <path d="m175.64-144.05c2.49 24.46 2.77 68.56 0.87 97.57" fill="none" stroke="#000"/>
+   <polygon points="179.97 -45.86 175.67 -36.17 172.99 -46.42" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>B-&gt;A</title>
+   <path d="m166.36-35.95c-2.49-24.46-2.77-68.56-0.87-97.57" fill="none" stroke="#000"/>
+   <polygon points="162.03 -134.14 166.33 -143.83 169.01 -133.58" stroke="#000"/>
+  </g>
+  <g class="node">
+   <title>T</title>
+   <ellipse cx="315" cy="-90" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="315" y="-85.800003" font-family="Times, serif" font-size="14px" text-anchor="middle">T</text>
+  </g>
+  <g class="edge">
+   <title>A-&gt;T</title>
+   <path d="m192.87-151.06c24.35 12.17 63.89 31.94 91.36 45.67" fill="none" stroke="#000"/>
+   <polygon points="286.02 -108.4 293.4 -100.8 282.89 -102.14" stroke="#000"/>
+  </g>
+  <path d="m192.87-28.94c24.35-12.17 63.89-31.94 91.36-45.67" fill="none" stroke="#000"/>
+  <polygon points="286.02 -71.6 282.89 -77.86 293.4 -79.2" stroke="#000"/>
+  <g class="node">
+   <title>S</title>
+   <ellipse cx="27" cy="-90" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="27" y="-85.800003" font-family="Times, serif" font-size="14px" text-anchor="middle">S</text>
+  </g>
+  <g class="edge">
+   <title>S-&gt;A</title>
+   <path d="m48.87-100.94c24.35-12.17 63.89-31.94 91.36-45.67" fill="none" stroke="#000"/>
+   <polygon points="138.89 -149.86 149.4 -151.2 142.02 -143.6" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>S-&gt;B</title>
+   <path d="m48.87-79.06c24.35 12.17 63.89 31.94 91.36 45.67" fill="none" stroke="#000"/>
+   <polygon points="142.02 -36.4 149.4 -28.8 138.89 -30.14" stroke="#000"/>
+  </g>
+ </g>
+</svg>

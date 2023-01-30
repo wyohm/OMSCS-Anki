@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="461.36" height="552.98" version="1.1" viewBox="0 0 346.02 414.74" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="Arrow2Lend" overflow="visible" orient="auto">
+   <path transform="matrix(-1.1,0,0,-1.1,-1.1,0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+ </defs>
+ <g class="graph" transform="matrix(1.8441 0 0 1.8441 -133.05 674.67)">
+  <ellipse cx="112.21" cy="-347.36" rx="27" ry="18" fill="none" stroke="#000"/>
+  <g transform="translate(28.583 -23.223)">
+   <g class="node">
+    <title>B</title>
+    <ellipse cx="124.25" cy="-253.81" rx="27" ry="18" fill="none" stroke="#000"/>
+   </g>
+   <text x="110.6681" y="-248.82924" fill="#000000" font-family="sans-serif" font-size="16.268px" stroke-width=".40671" style="line-height:1.25" xml:space="preserve"><tspan x="110.6681" y="-248.82924" stroke-width=".40671">B,E</tspan></text>
+  </g>
+  <text x="106.64951" y="-341.43011" fill="#000000" font-family="sans-serif" font-size="16.268px" stroke-width=".40671" style="line-height:1.25" xml:space="preserve"><tspan x="106.64951" y="-341.43011" stroke-width=".40671">A</tspan></text>
+  <g class="node">
+   <title>D</title>
+   <ellipse cx="207.26" cy="-345.78" rx="27" ry="18" fill="none" stroke="#000"/>
+  </g>
+  <text x="200.67876" y="-339.85013" fill="#000000" font-family="sans-serif" font-size="16.268px" stroke-width=".40671" style="line-height:1.25" xml:space="preserve"><tspan x="200.67876" y="-339.85013" stroke-width=".40671">D</tspan></text>
+  <g transform="translate(178.64 37.961)">
+   <g class="node" transform="translate(-70.599 10.396)">
+    <title>B</title>
+    <ellipse cx="124.25" cy="-253.81" rx="27" ry="18" fill="none" stroke="#000"/>
+   </g>
+   <text x="32.030102" y="-238.32617" fill="#000000" font-family="sans-serif" font-size="16.268px" stroke-width=".40671" style="line-height:1.25" xml:space="preserve"><tspan x="32.030102" y="-238.32617" stroke-width=".40671">C,F,G</tspan></text>
+  </g>
+  <g transform="translate(-.89321 -5.8058)">
+   <ellipse cx="114.84" cy="-153.65" rx="41.176" ry="17.885" fill="none" stroke="#000" stroke-width="1.231"/>
+   <text x="82.959564" y="-149.34938" fill="#000000" font-family="sans-serif" font-size="16.268px" stroke-width=".40671" style="line-height:1.25" xml:space="preserve"><tspan x="82.959564" y="-149.34938" stroke-width=".40671">H,I,J,K,L</tspan></text>
+  </g>
+  <g fill="none" stroke="#000" stroke-width="1.2201">
+   <path d="m141.19-259.94-25.903 81.282" marker-end="url(#Arrow2Lend)"/>
+   <path d="m173.34-263.96 41.087 41.534" marker-end="url(#Arrow2Lend)"/>
+   <path d="m126.45-330.95 19.204 34.388" marker-end="url(#Arrow2Lend)"/>
+   <path d="m168.43-292.99 27.689-33.942" marker-end="url(#Arrow2Lend)"/>
+   <path d="m207.73-196.97-54.039 32.155" marker-end="url(#Arrow2Lend)"/>
+  </g>
+ </g>
+ <g transform="translate(-160.94 -16.337)" display="none">
+  <ellipse cx="234.23" cy="50.649" rx="88.533" ry="50.649" fill="#00ff04" fill-opacity=".5" stop-color="#000000" style="-inkscape-stroke:none"/>
+  <ellipse cx="423.24" cy="57.238" rx="86.474" ry="53.12" fill="#ff0400" fill-opacity=".49569" stop-color="#000000" style="-inkscape-stroke:none"/>
+  <g fill-opacity=".5">
+   <ellipse transform="matrix(.89053 -.45492 .45267 .89168 0 0)" cx="129.73" cy="307.71" rx="145.46" ry="83.414" fill="#ff9600" stop-color="#000000" style="-inkscape-stroke:none"/>
+   <ellipse cx="459.47" cy="356.6" rx="132.59" ry="120.24" fill="#7900ff" stop-color="#000000" style="-inkscape-stroke:none"/>
+   <ellipse transform="matrix(.80638 .5914 -.62168 .78327 0 0)" cx="500.7" cy="303.81" rx="242.08" ry="144.45" fill="#00d2ff" stop-color="#000000" style="-inkscape-stroke:none"/>
+  </g>
+ </g>
+</svg>

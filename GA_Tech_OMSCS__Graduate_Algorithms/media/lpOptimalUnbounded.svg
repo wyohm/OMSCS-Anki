@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="432.55" height="443.98" version="1.1" viewBox="0 0 432.55 443.98" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="Arrow2Mend" overflow="visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175 0 8.0354z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+  <marker id="Arrow2Mstart" overflow="visible" orient="auto">
+   <path transform="scale(.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175 0 8.0354z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+  <linearGradient id="linearGradient3950" x1="185.44" x2="132.2" y1="542.13" y2="224.48" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00d2ff" offset="0"/>
+   <stop stop-color="#ff001e" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-50.423 -203.73)">
+  <path d="m112.68 215.61h362.9l-282.15 331.84-80.742-19.52z" fill="url(#linearGradient3950)" opacity=".32314" stop-color="#000000"/>
+  <g fill="none" stroke="#000" stroke-dasharray="1, 3">
+   <path d="m288.36 436.54-132.2 102.04"/>
+   <path d="m111.8 474.69 331.84-258.2"/>
+   <path d="m110.91 379.75 209.4-162.37"/>
+   <path d="m113.57 283.04 88.728-65.658"/>
+  </g>
+  <g font-family="sans-serif">
+   <g font-size="16px">
+    <text x="86.116539" y="215.39709" style="line-height:1.25" xml:space="preserve"><tspan x="86.116539" y="215.39709">5</tspan></text>
+    <g stroke-dasharray="1, 3">
+     <text x="86.093102" y="292.00958" opacity=".99" stop-color="#000000" xml:space="preserve"><tspan x="86.093102" y="292.00958">4</tspan></text>
+     <text x="86.065758" y="368.50101" opacity=".99" stop-color="#000000" xml:space="preserve"><tspan x="86.065758" y="368.50101">3</tspan></text>
+     <text x="86.249352" y="445.11353" opacity=".99" stop-color="#000000" xml:space="preserve"><tspan x="86.249352" y="445.11353">2</tspan></text>
+     <text x="85.893883" y="521.50726" opacity=".99" stop-color="#000000" xml:space="preserve"><tspan x="85.893883" y="521.50726">1</tspan></text>
+     <text x="169.46968" y="590.05298" opacity=".99" stop-color="#000000" xml:space="preserve"><tspan x="169.46968" y="590.05298">1</tspan></text>
+     <text x="230.67508" y="590.15845" opacity=".99" stop-color="#000000" xml:space="preserve"><tspan x="230.67508" y="590.15845">2</tspan></text>
+     <text x="291.34143" y="590.04517" opacity=".99" stop-color="#000000" xml:space="preserve"><tspan x="291.34143" y="590.04517">3</tspan></text>
+     <text x="352.21869" y="590.05298" opacity=".99" stop-color="#000000" xml:space="preserve"><tspan x="352.21869" y="590.05298">4</tspan></text>
+     <text x="413.0921" y="589.9397" opacity=".99" stop-color="#000000" xml:space="preserve"><tspan x="413.0921" y="589.9397">5</tspan></text>
+     <text x="473.8053" y="590.04517" opacity=".99" stop-color="#000000" xml:space="preserve"><tspan x="473.8053" y="590.04517">6</tspan></text>
+     <text x="54.123825" y="592.70026" opacity=".99" stop-color="#000000" xml:space="preserve"><tspan x="54.123825" y="592.70026">-1</tspan></text>
+     <text x="85.178482" y="647.71136" opacity=".99" stop-color="#000000" xml:space="preserve"><tspan x="85.178482" y="647.71136">-1</tspan></text>
+     <text transform="rotate(-37.618)" x="-158.30199" y="516.17975" opacity=".99" stop-color="#000000" xml:space="preserve"><tspan x="-158.30199" y="516.17975">c=0</tspan></text>
+     <text transform="rotate(-40.298)" x="-130.07251" y="432.24963" opacity=".99" stop-color="#000000" xml:space="preserve"><tspan x="-130.07251" y="432.24963">c=-4</tspan></text>
+     <text transform="rotate(-37.914)" x="-70.53669" y="354.15552" opacity=".99" stop-color="#000000" xml:space="preserve"><tspan x="-70.53669" y="354.15552">c=-8</tspan></text>
+     <text transform="rotate(-34.625)" x="-31.210989" y="287.99536" opacity=".99" stop-color="#000000" xml:space="preserve"><tspan x="-31.210989" y="287.99536">c=-12</tspan></text>
+    </g>
+   </g>
+   <text x="316.75748" y="498.64902" font-size="21.333px" opacity=".99" stop-color="#000000" stroke-dasharray="1, 3" xml:space="preserve"><tspan x="316.75748" y="498.64902">2x-3y=c</tspan></text>
+  </g>
+  <g fill="none" stroke="#000" stroke-width="2.5">
+   <path d="m55.898 573.18 417.91-0.88728" marker-end="url(#Arrow2Mend)" marker-start="url(#Arrow2Mstart)"/>
+   <path d="m113.57 639.73 361.12-420.57" marker-end="url(#Arrow2Mend)" marker-start="url(#Arrow2Mstart)"/>
+   <path d="m111.8 219.16-1.7746 420.57" marker-end="url(#Arrow2Mend)" marker-start="url(#Arrow2Mstart)"/>
+   <path d="m54.124 517.28 417.91 95.826" marker-end="url(#Arrow2Mend)" marker-start="url(#Arrow2Mstart)"/>
+  </g>
+ </g>
+</svg>

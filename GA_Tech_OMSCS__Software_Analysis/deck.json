@@ -1,0 +1,910 @@
+{
+    "__type__": "Deck",
+    "activeTags": [],
+    "children": [],
+    "crowdanki_uuid": "2cc4ac8a-7615-11eb-a664-e4a7a0580719",
+    "deck_config_uuid": "eedb0b70-e5c4-11ea-8fe2-e4a7a0580719",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "eedb0b70-e5c4-11ea-8fe2-e4a7a0580719",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.75
+            },
+            "maxTaken": 60,
+            "name": "Ignore",
+            "new": {
+                "bury": true,
+                "delays": [
+                    2.0,
+                    10.0,
+                    1440.0,
+                    4320.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    4,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 0,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 0
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 35,
+    "extendRev": 50,
+    "inactiveTags": [],
+    "media_files": [
+        "paste-04db061ae44cc0c589f62ae063b32a47fa7b104e.jpg",
+        "paste-0abbab31edb1d7d95136922d80b82b133e29c4b9.jpg",
+        "paste-36d90ab097c614f04771ed6a8e3ef6f2723ddf4b.jpg",
+        "paste-41f63026804b6efbc46dc8ef1c8d89d18bf9cd76.jpg",
+        "paste-4a9b9ec4a0b9a844d017eb1952711148eeefa7a2.jpg",
+        "paste-4cabbe68defa6dd959d5233ade8bca316f701175.jpg",
+        "paste-5f10438abecdb56ec2480fcad1fdf774ef43d27e.jpg",
+        "paste-66aca95ada69d826fc22b576beb71455a2295588.jpg",
+        "paste-6846012e7e2ff7a771eb375aa1abb6daa8ceec6c.jpg",
+        "paste-6b36491e84d80d223e14ed1e2228fa0576ac679a.jpg",
+        "paste-b8cd32ba7eab34b1ef2fb85001b754ddd6145389.jpg",
+        "paste-d5c0ed237e1ecdd94971679e66a2152e79a6bb1d.jpg",
+        "paste-d6e21736e30243e6690b5e3c246ebf00340435c2.jpg",
+        "paste-d87979fb506041f2efe2bd12ed68347fa0199468.jpg",
+        "paste-e71ef8619bb8f88c280310d9d9a76b6e8f0432ed.jpg",
+        "paste-f12ec964f6d727bae732acf896dc7c1aa2f718b5.jpg",
+        "preview (1).png"
+    ],
+    "mid": "1595711725854",
+    "name": "GA Tech OMSCS::Software Analysis",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n  font-weight: bold;\n  color: blue;\n}\n\n.cloze-inactive {\n  color: darkslateblue;\n}\n\n.nightMode .cloze {\n  color: lightblue;\n}\n\nul,\nol {\n  display: block;\n  text-align: left;\n  list-style: inside;\n}\n\ntable, th, td {\n  border: 1px solid black;\n  border-collapse: collapse;\n}\n\ntd[colspan]:not([colspan=\"1\"]) {\n    text-align: center;\n}\n\ncode {\n  display: inline-block;\n  white-space: pre;\n  text-align: left;\n  tab-size: 3;\n  background: rgba(7,7,7,0.2);\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "OMSCS Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "<h6>{{Deck}}</h6>\n{{cloze:Text}}<br><br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "<h6>{{Deck}}</h6>\n{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n  font-weight: bold;\n  color: blue;\n}\n\n.nightMode .cloze {\n  color: lightblue;\n}\n\nul,\nol {\n  display: inline-block;\n  text-align: left; \n}\n\ntable, th, td {\n  border: 1px solid black;\n  border-collapse: collapse;\n}\n\ntd[colspan]:not([colspan=\"1\"]) {\n    text-align: center;\n}\n\ncode {\n  display: inline-block;\n  white-space: pre;\n  text-align: left;\n  tab-size: 3;\n  background: rgba(7,7,7,0.2);\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "OMSCS Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "practice_exam"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Deck}}<br>\n{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Dataflow Analysis</h1>\n<h2>Classifying Dataflow Analyses</h2>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><br></td><td>{{c2:: May}}</td>\n<td>{{c2::Must}}</td>\n</tr>\n<tr>\n<td>{{c2::Forward}}</td>\n<td>{{c1::Reaching Definitions}}</td>\n<td>{{c1::Available Expressions}}</td>\n</tr>\n<tr>\n<td>{{c2::Backward}}</td>\n<td>{{c1::Live Variables}}</td>\n<td>{{c1::Very Busy Expressions}}</td>\n</tr>\n</tbody>\n</table>",
+                ""
+            ],
+            "guid": "n`r[NLTV|t",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Intro to SA</h1>\n<br>Can one software anaylsis be more sound than another?<br>",
+                "Yes. A software analysis may reject a program that is actually safe and it&nbsp;is possible to have a SA that is more precise than another."
+            ],
+            "guid": "jCF==O{_SV",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1>\nWhy is pointer analysis said to be \"undecidable\" and what is the solution to this?",
+                "There isn't an algorithm that always terminates and determines if two variables alias.&nbsp;The solution is to sacrifice completeness for guaranteed termination. This&nbsp;means you might have false positives but no false negatives."
+            ],
+            "guid": "FxJNvz{O>6",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>SW Testing</h1>\n<p>What is a frame condition?</p>",
+                "<b>post/pre condition combination</b> may not say anything&nbsp;else about the state of the object after an action is performed e.g.&nbsp;a `pop()` method for an array would say the pre-condition is the size is&nbsp;greater than 0 and the post condition is that the size is orig size - 1.&nbsp;It doesn't say anything about the order of the array or the objects in the&nbsp;array. They are assumed to remain unchanged."
+            ],
+            "guid": "j>]/oaF~mc",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>SW Testing</h1>\n<p>Code coverage metrics:</p>\n<ol>\n<li>{{c1::Function coverage}}</li>\n<li>{{c2::Branch coverage}}</li>\n<li>{{c3::Line coverage}}</li>\n<li>{{c4::Condition coverage}}</li>\n<li>{{c5::BB coverage}}</li>\n<li>{{c6::Path coverage}}</li>\n</ol>",
+                "Code coverage metrics - given as a percentage of some aspect of the<br>program executed in the tests. 100% coverage is rare."
+            ],
+            "guid": "b.L&o8}&4/",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1>\n<p>What is the definition of must-alias analysis?</p>",
+                "A must-alias analysis computes alias relationships (between program<br>expressions) that are <b>guaranteed to always hold</b> during program execution."
+            ],
+            "guid": "jGW<rDxGqZ",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1><p>What is the definition of may-alias analysis?</p>",
+                "The analysis of program expressions that may alias, i.e., refer to the same heap object.<br>Synonymous with pointer analysis."
+            ],
+            "guid": "MywLU9OoyS",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1><p>What are the methods for modeling aggregate data types like arrays?</p>",
+                "<ul>\n<li><b>Single field [*]</b> to represent all array elements. This method can't distinguish different elements of the same array. This is the most common choice.<br></li>\n<li><b>Array dependence</b> analyses tracks whether 2 integer expressions refer to the same element of an array. This is used to parallelize sequential loops by parallelizing compilers</li>\n</ul>"
+            ],
+            "guid": "sF$N_-6h%:",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Intro to SA</h1><p>What is the definition of soundness in regard to SW Analysis?</p>",
+                "If it is&nbsp;<strong>sound</strong>, we are guaranteed that the set of programs that it claims to be safe, is indeed safe. However, it is possible that it may reject some safe programs. <b>Sound is a subset of Safe.</b><div>A trivially sound program will reject all programs.</div><div>Everything, which is provable, is true.</div>"
+            ],
+            "guid": "B.]@bX;BK(",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1><p>What is a points-to graph?</p>",
+                "It is a method of <b>heap abstraction</b> where allocation sites and variables are represented in a <b>directed graph</b>."
+            ],
+            "guid": "g<d7@15fX=",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>SW Testing</h1><p>What is mutation analysis?</p>",
+                "Program under test is mutated (variants of the program created) and the same&nbsp;tests are run. The ideas is that tests should fail for the mutated cases. If no tests fail it could be an indication that the test suite is not strong enough."
+            ],
+            "guid": "n0d6qfZ`7W",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1><p>What is Flow-Insensitivity?</p>",
+                "It is a control flow abstraction method."
+            ],
+            "guid": "DX/D5YA~>.",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1><p>What are the features of Flow-Insensitivity?</p>\n<ul>\n<li>{{c1::Control flow features are removed (for loops, semi-colons)}}</li>\n<li>{{c2::All statements that don't effect pointers are removed}}</li>\n<li>{{c3::Indices are replaced by non-deterministic choice}}</li>\n<li>{{c4::The statements are converted into an unordered sequence (order doesn’t matter)}}</li>\n</ul>",
+                ""
+            ],
+            "guid": "dq`)b?6LBE",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1>\n<p>What are the minimum statements needed to represent a program for pointer analysis?</p>\n<ol>\n<li>{{c1::object allocation: v = new ...}}</li>\n<li>{{c2::object copy: v = v2}}</li>\n<li>{{c3::field read: v2 = v.f}}</li>\n<li>{{c3::field write: v.f = v2}}</li>\n<li>{{c4::array cell read: v[*] = v2}}</li>\n<li>{{c4::array cell write: v2 = v[*]}}</li>\n</ol>",
+                ""
+            ],
+            "guid": "k`dv:VQ!H[",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1><p>What is the \"normal form\" of a program?</p>",
+                "Each statement is rewritten using the 6 grammar statements (object<br>allocation, object copy, field read/write, array cell read/write)."
+            ],
+            "guid": "C4yp;+F[a>",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>SW Testing</h1>\n<p>What is a pre-condition?</p>",
+                "Pre-condition is a predicate assumed to be held prior to a function executing"
+            ],
+            "guid": "u!Zvy<_{}l",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>SW Testing</h1><p>What are benefits of white box testing?</p>",
+                "White box - internal details of the program being tested are fully available<br>White box can have a more efficient test suite and better code coverage"
+            ],
+            "guid": "Ir;I]+t-NO",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>SW Testing</h1><p>What is the definition of testing in regards to the implementation and specification?<br></p>",
+                "Testing checks whether a program implementation agrees with the specification<br><br>Testing can be viewed as a form of consistency checking between the<br>implementation and specification"
+            ],
+            "guid": "H})E/!pV:X",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>SW Testing</h1><p>What increases the complexity of automated testing?<br></p>",
+                "The complexity increases as the number of branch conditions increase."
+            ],
+            "guid": "epD;c`i:.(",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1>\n<p>What is the difference between context sensitive/insensitive?<br></p>",
+                "<ul><li>Context insensitive: analyze each part of the program only once</li><li>Context sensitive: possible to analyze multiple times, once per abstract calling context</li></ul>"
+            ],
+            "guid": "HZKAFq[1V@",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1>\n<p>What are the primary differences between pointer analysis algorithms?<br></p>",
+                "Two key aspects where they differ are <b>how the heap is abstracted</b> and <b>how control flow is abstracted</b>."
+            ],
+            "guid": "L7foO|3].T",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1>\n<p>What is a weak update analysis?<br></p>",
+                "In the points-to graph <b>an edge is never removed</b> once it is added. It is an accumulate instead of replace operation (no previous facts are removed).<br>This type of update rule is a hallmark of flow-insensitivity."
+            ],
+            "guid": "l8bl}lC$[V",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1>\n<p>What is the primary purpose of heap abstraction?<br></p>",
+                "It is a scheme to partition an unbounded amount of concrete objects to a finite number of abstract objects which ensures that the pointer analysis&nbsp;terminates."
+            ],
+            "guid": "NL&`JqMldF",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1>\n<p>What are the categories of flow sensitivity?<br></p>",
+                "<ul>\n<li>Flow insensitive == weak updates, no previous facts are killed. This type works for may-update analysis</li>\n<li>Flow sensitive - can kill facts in addition to update. Used for must-update analysis</li>\n</ul>"
+            ],
+            "guid": "yZP0/5s:UQ",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1>\n<p>What are the methods for modeling aggregate data types like records (structs/classes)?<br></p>\n<ul>\n<li>{{c1::Field-insensitive: merge all fields of each record object}}</li>\n<li>{{c2::Field-based: merge each field of all record objects}}</li>\n<li>{{c3::Field-sensitive: keep each field of each abstract record object are kept separate (most precise method)}}</li>\n</ul>",
+                ""
+            ],
+            "guid": "uCV1qX2/F8",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Intro to SA</h1>\n<p>What is completeness?</p>",
+                "If it is&nbsp;<strong>complete</strong>, we are guaranteed that the set of programs that it claims to be safe will contain all the safe programs. However, it is possible that some of the programs in the set are not safe. <b>Safe is a subset of complete.</b><div>A trivially complete program would accept all programs.</div><div>Everything, which is true, is provable.</div>"
+            ],
+            "guid": "x([&cWx!2h",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>SW Testing</h1>\n<p>What is needed to get 100% branch coverage?</p>",
+                "To get 100% branch coverage you must have test cases that cover both TRUE and FALSE branches (even if there is no else statement). You need to cover every possible true/false combination."
+            ],
+            "guid": "q@88$)~(;h",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>SW Testing</h1>\n<p>What occurs if the mutant is equivalent to the original program?</p>",
+                "This makes it difficult to determine if there is an issue with the test coverage. It will often require a human to intervene and determine if the mutant is valid."
+            ],
+            "guid": "GZG-WiL=1n",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>SW Testing</h1>\n<p>What are the benefits of black box testing?</p>",
+                "Black box does not require code modification and does need to study or analyze the code to be tested.<br><br>Black box testing can be done on any code format e.g. managed, binary, obfuscated"
+            ],
+            "guid": "O.k3ukji2>",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>SW Testing</h1>\n<p>Will manual or automated testing have a more efficient test suite and better code coverage?</p>",
+                "Manual"
+            ],
+            "guid": "m^<O/izPWA",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>SW Testing</h1>\n<p>What is the foundation that mutation analysis is based on?</p>",
+                "Mutation analysis is founded on the \"competent programmer assumption\" meaning the code is close to correct to begin with. This means there could be minor errors like a + instead of a - sign but the overall logic is correct."
+            ],
+            "guid": "i5E,M)dPsD",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>SW Testing</h1>\n<p>What is a post-condition?</p>",
+                "Post-condition is a predicate expected to hold after a function executes whenever the pre-condition also holds"
+            ],
+            "guid": "x!SPerA=Mi",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Intro to SA</h1>\n<h2>Program Invariants</h2>\n<p>An invariant is&nbsp;{{c1::a condition&nbsp;that can be relied upon to be true during the execution of a program, or during some portion of it}}.</p>",
+                ""
+            ],
+            "guid": "s4FUQK!.sQ",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Intro to SA</h1>\n<h2>Iterative Approximation</h2>\n<p><img src=\"paste-41f63026804b6efbc46dc8ef1c8d89d18bf9cd76.jpg\"><br></p>",
+                "1: 1<div>2: ?</div><div>3: ?</div>"
+            ],
+            "guid": "viFS7g?0@2",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Intro to SA</h1>\n<h2>Dynamic vs. Static Analysis</h2>\n<table>\n<tbody>\n<tr>\n<th>&nbsp;</th>\n<th>Dynamic</th>\n<th>Static</th>\n</tr>\n<tr>\n<th>Cost</th>\n<td>{{c1::Proportional to program's execution time}}</td>\n<td>{{c2::Proportional to program's size}}</td>\n</tr>\n<tr>\n<th>Effectiveness</th>\n<td>{{c3::Unsound (may miss errors)}}</td>\n<td>{{c4::Incomplete (may report spurious errors)}}</td>\n</tr>\n</tbody>\n</table>",
+                ""
+            ],
+            "guid": "hEqYPs]KYz",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Introduction to Software Testing</h1>\n<h2>Pre-Conditions</h2>\n<p>What are the minimum pre-conditions to prevent Java from throwing built-in exceptions?</p>\n<pre><code>\nint foo(int[] A, int[] B) {\n\tint r = 0;\n\tfor (int i = 0; i &lt; A.length; i++) {\n\t\tr += A[i] * B[i];\n\t}\n\treturn r;\n}\n</code></pre>\n{{c1::A != null}} &amp;&amp; {{c1::B != null}} &amp;&amp; {{c1::A.length &lt;= B.length}}",
+                ""
+            ],
+            "guid": "EZ{CV}VK%I",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Introduction to Software Testing</h1>\n<h2>Post-Conditions</h2>\n<p>Consider a sorting function in Java which takes a non-null integer array A and returns an integer array B. Check all items that specify the strongest possible post-condition.</p>\n<ol>\n<li>B is non-null</li>\n<li>B has the same length as A</li>\n<li>The elements of B do not contain any duplicates</li>\n<li>The elements of B are a permutation of the elements of A</li>\n<li>The elements of B are in sorted order</li>\n<li>The elements of A are in sorted order</li>\n<li>The elements of A do not contain any duplicates</li>\n</ol>",
+                "<ol>\n<li><span style=\"color: #00ff00;\"> B is non-null</span></li>\n<li><span style=\"color: #00ff00;\">B has the same length as A</span></li>\n<li><span style=\"color: #ff0000;\">The elements of B do not contain any duplicates</span></li>\n<li><span style=\"color: #00ff00;\">The elements of B are a permutation of the elements of A</span></li>\n<li><span style=\"color: #00ff00;\">The elements of B are in sorted order</span></li>\n<li><span style=\"color: #ff0000;\">The elements of A are in sorted order</span></li>\n<li><span style=\"color: #ff0000;\">The elements of A do not contain any duplicates </span></li>\n</ol>"
+            ],
+            "guid": "zB<sr+BoR(",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Introduction to Software Testing</h1>\n<h2>Code Coverage Metrics</h2>\n<p><img src=\"paste-d5c0ed237e1ecdd94971679e66a2152e79a6bb1d.jpg\"><br></p><ol>\n</ol>",
+                "Statement Coverage: 80<div>Branch Coverage: 50<br></div><div><div>x = 0</div><div>y = 1</div></div><div><br></div><div>Any integer combination of x and y where x&lt;=y satisfies this quiz.<br></div>"
+            ],
+            "guid": "KPoLJ.|CL3",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Introduction to Software Testing</h1>\n<h2>Mutation Analysis 1</h2>\n<pre><code>int foo(int x, int y){\n\tint z = 0;\n\tif(x &lt;= y){\n\t\tz = x;\n\t} else{\n\t\tz = y;\n\t}\n\treturn z;\n}\n</code></pre>\n<p>&nbsp;</p>\n<p>Select the correct options for passed test(s).</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>Test 1<br>assert:<br>(foo(0,1)==0</td>\n<td>Test 2<br>assert:<br>foo(0,0)==0</td>\n</tr>\n<tr>\n<td>Mutant 1<br>x &lt;= y --&gt; x &gt; y</td>\n<td>{{c1::Fail}}</td>\n<td>{{c2::Pass}}</td>\n</tr>\n<tr>\n<td>Mutant 2<br>x &lt;= y --&gt; x != y</td>\n<td>{{c3::Pass}}</td>\n<td>{{c4::Pass}}</td>\n</tr>\n</tbody>\n</table>\n<p>The test suite is adequate with respect to both mutants: {{c5::False}}</p>",
+                ""
+            ],
+            "guid": "p_Iz9JQAPm",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Introduction to Software Testing</h1>\n<h2>Mutation Analysis 2</h2>\n<pre><code>\nint foo(int x, int y){\n\tint z = 0;\n\tif(x &lt;= y){\n\t\tz = x;\n\t} else{\n\t\tz = y;\n\t}\n\treturn z;\n}\n</code></pre>\n<p>&nbsp;</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>Test 1<br>assert:<br>(foo(0,1)==0</td>\n<td>Test 2<br>assert:<br>foo(0,0)==0</td>\n</tr>\n<tr>\n<td>Mutant 1<br>x &lt;= y --&gt; x &gt; y</td>\n<td>Fail</td>\n<td>Pass</td>\n</tr>\n<tr>\n<td>Mutant 2<br>x &lt;= y --&gt; x != y</td>\n<td>Pass</td>\n<td>Pass</td>\n</tr>\n</tbody>\n</table>\n<p>Give a test case which Mutant 2 fails but the original code passes:</p>\n<pre><code>foo({{c1::1}}, {{c1::0}}) == {{c1::0}}</code></pre>",
+                ""
+            ],
+            "guid": "wcBzvHT3oh",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Random Testing</h1>\n<h2>Monkey Events</h2>\n<p>Give the correct specification of TOUCH and MOTION events in Monkey's grammar using UP, MOVE, and DOWN statements.</p>\n<p>Give the specification of a TOUCH event at pixel (89, 215).</p>\n<ol>\n<li>{{c1::DOWN(89, 215)}}</li>\n<li>{{c1::UP(89, 215)}}</li></ol>",
+                "TOUCH events are a pair of DOWN and UP events at a single place on the screen."
+            ],
+            "guid": "F,$C:saFX<",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Random Testing</h1>\n<h2>Concurrency Bug Depth</h2>\n<p><img src=\"paste-e71ef8619bb8f88c280310d9d9a76b6e8f0432ed.jpg\"><br></p><p>What is the depth of the concurrency bug in the above example?<br></p>",
+                "2.<div><br></div><div>Bug Depth is the number of ordering constraints a schedule has to satisfy to find the bug.<br></div>"
+            ],
+            "guid": "uVd7WE0$`}",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Random Testing</h1>\n<h2>Concurrency Bug Depth</h2>\n<p><img src=\"paste-e71ef8619bb8f88c280310d9d9a76b6e8f0432ed.jpg\"><br></p><p>Specify all <b>ordering constraints</b>&nbsp;(pairs of ordered statements) needed to trigger the bug.<br></p>",
+                "<div>(1,7) (6,2)</div>"
+            ],
+            "guid": "d&GGPVfh8g",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Automated Test Generation</h1>\n<h2>Representing Shapes</h2>\n<p>Fill in the field values in each vector to represent its corresponding shape.</p><p><img src=\"paste-f12ec964f6d727bae732acf896dc7c1aa2f718b5.jpg\"><br></p>\n<table>\n<tbody>\n<tr>\n<td>root</td>\n<td>{{c1::N0}}</td>\n</tr>\n<tr>\n<td>N0 left</td>\n<td>{{c1::N1}}</td>\n</tr>\n<tr>\n<td>N0 right</td>\n<td>{{c1::N2}}</td>\n</tr>\n<tr>\n<td>N1 left</td>\n<td>{{c1::NULL}}</td>\n</tr>\n<tr>\n<td>N1 right</td>\n<td>{{c1::NULL}}</td>\n</tr>\n<tr>\n<td>N2 left</td>\n<td>{{c1::NULL}}</td>\n</tr>\n<tr>\n<td>N2 right</td>\n<td>{{c1::NULL}}</td>\n</tr>\n</tbody>\n</table>",
+                ""
+            ],
+            "guid": "D+cqAvIWwr",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Automated Test Generation</h1>\n<h2>Representing Shapes</h2>\n<p>Fill in the field values in each vector to represent its corresponding shape.</p><p><img src=\"paste-4a9b9ec4a0b9a844d017eb1952711148eeefa7a2.jpg\"><br></p>\n<table>\n<tbody>\n<tr>\n<td>root</td>\n<td>{{c1::N0}}</td>\n</tr>\n<tr>\n<td>N0 left</td>\n<td>{{c1::N1}}</td>\n</tr>\n<tr>\n<td>N0 right</td>\n<td>{{c1::NULL}}</td>\n</tr>\n<tr>\n<td>N1 left</td>\n<td>{{c1::NULL}}</td>\n</tr>\n<tr>\n<td>N1 right</td>\n<td>{{c1::N2}}</td>\n</tr>\n<tr>\n<td>N2 left</td>\n<td>{{c1::NULL}}</td>\n</tr>\n<tr>\n<td>N2 right</td>\n<td>{{c1::NULL}}</td>\n</tr>\n</tbody>\n</table>",
+                ""
+            ],
+            "guid": "c%tJrS[A0:",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Automated Test Generation</h1>\n<h2>Enumerating Shapes</h2>\n<p> </p>\n<p>Korat represents each input shape as a vector of the following form:</p>\n<table>\n<tbody>\n<tr>\n<th>Node</th>\n<th>Value</th>\n</tr>\n<tr>\n<td>root</td>\n<td> </td>\n</tr>\n<tr>\n<td>N0 left</td>\n<td> </td>\n</tr>\n<tr>\n<td>N0 right</td>\n<td> </td>\n</tr>\n<tr>\n<td>N1 left</td>\n<td> </td>\n</tr>\n<tr>\n<td>N1 right</td>\n<td> </td>\n</tr>\n<tr>\n<td>N2 left</td>\n<td> </td>\n</tr>\n<tr>\n<td>N2 right</td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<p>What is the total number of vectors which can be generated for the above form?</p>",
+                "16,384 or&nbsp;\\(4^7\\)<div>Eash space in the vector can be [NULL, N0, N1, N2].</div>"
+            ],
+            "guid": "hH|^.RBG;z",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Automated Test Generation</h1>\n<h2>Randoop Test Generation 1</h2>\n<p>Write the smallest sequence that Randoop can possibly generate to create a valid Binary Tree. Please use \"bt\" as the name of the binary tree.</p>\n<pre><code>\nclass BinaryTree{\n\tNode root;\n\tpublic BinaryTree(Node r){\n\t\troot = r;\n\t\tassert(repOk(this));\n\t}\n}\n\nclass Node{\n\tNode left;\n\tNode right;\n\tpublic Node(Node l, Node r){\n\t\tleft = l;\n\t\tright = r;\n\t}\n}\n</code></pre>",
+                "<pre><code>BinaryTree bt = new BinaryTree(null);</code></pre>"
+            ],
+            "guid": "eOP{?H|5XM",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Automated Test Generation</h1>\n<h2>Randoop Test Generation 1</h2>\n<p>Once generated, how does Randoop classify this?</p>\n<pre><code>\nclass BinaryTree{\n\tNode root;\n\tpublic BinaryTree(Node r){\n\t\troot = r;\n\t\tassert(repOk(this));\n\t}\n}\n\nclass Node{\n\tNode left;\n\tNode right;\n\tpublic Node(Node l, Node r){\n\t\tleft = l;\n\t\tright = r;\n\t}\n}\n</code></pre>",
+                "<div>Adds to components for future extension</div>"
+            ],
+            "guid": "CHfha/7?07",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Automated Test Generation</h1>\n<h2>Randoop Test Generation 2</h2>\n<p>Write the smallest sequence that Randoop can possibly generate that violates the assertion in removeRoot(). Please use \"bt\" as the name of the binary tree.</p><p>Also, once generated, how does Randoop classify it?</p>\n<pre><code>\nclass BinaryTree{\n\tNode root;\n\tpublic BinaryTree(Node r){\n\t\troot = r;\n\t\tassert(repOk(this));\n\t}\n}\n\nclass Node{\n\tNode left;\n\tNode right;\n\tpublic Node(Node l, Node r){\n\t\tleft = l;\n\t\tright = r;\n\t}\n}\n</code></pre>",
+                "<pre><code>\nBinaryTree bt = new BinaryTree(null);\nbt.removeRoot(); \n</code></pre>\n<p>Discard it as illegal.</p>"
+            ],
+            "guid": "lcf*GBPSJ2",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Automated Test Generation</h1>\n<h2>Randoop Test Generation 3</h2>\n<pre><code>\nclass BinaryTree{\n\tNode root;\n\tpublic BinaryTree(Node r){\n\t\troot = r;\n\t\tassert(repOk(this));\n\t}\n}\n\nclass Node{\n\tNode left;\n\tNode right;\n\tpublic Node(Node l, Node r){\n\t\tleft = l;\n\t\tright = r;\n\t}\n}\n</code></pre>\n<p>Java code for the pre-condition function:</p>\n<pre><code>\npublic boolean repOK(BinaryTree bt) {\n    if (bt.root == null) return true;\n    Set visited = new HashSet();\n    List workList = new LinkedList();\n    visited.add(bt.root);\n    workList.add(bt.root);\n    while (!workList.isEmpty()) {\n        Node current = workList.removeFirst();\n        if (current.left != null) {\n            if (!visited.add(current.left)) return false;\n            workList.add(current.left);\n        }\n    // similarly for current.right\n    }\n    return true;\n}\n</code></pre>\n<p>Write the smallest sequence that Randoop can possibly generate that violates the assertion in BinaryTree's constructor. Please use \"bt\" as the name of the binary tree and nodes as \"v1\" and \"v2.\"</p>",
+                "<pre><code>\nNode v1 = new Node(null, null);\nNode v2 = new Node(v1, v1);\nBinaryTree bt = new BinaryTree(v2);\n</code></pre>"
+            ],
+            "guid": "Jqr}ANYa3>",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Automated Test Generation</h1>\n<h2>Randoop Test Generation 3</h2>\n<pre><code>\nclass BinaryTree{\n\tNode root;\n\tpublic BinaryTree(Node r){\n\t\troot = r;\n\t\tassert(repOk(this));\n\t}\n}\n\nclass Node{\n\tNode left;\n\tNode right;\n\tpublic Node(Node l, Node r){\n\t\tleft = l;\n\t\tright = r;\n\t}\n}\n</code></pre>\n<p>Java code for the pre-condition function:</p>\n<pre><code>\npublic boolean repOK(BinaryTree bt) {\n    if (bt.root == null) return true;\n    Set visited = new HashSet();\n    List workList = new LinkedList();\n    visited.add(bt.root);\n    workList.add(bt.root);\n    while (!workList.isEmpty()) {\n        Node current = workList.removeFirst();\n        if (current.left != null) {\n            if (!visited.add(current.left)) return false;\n            workList.add(current.left);\n        }\n    // similarly for current.right\n    }\n    return true;\n}\n</code></pre>\n<p>Can Randoop create a BinaryTree object with cycles using the given API?</p>",
+                "No."
+            ],
+            "guid": "EK}&E+5gs1",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Automated Test Generation</h1>\n<h2>Korat and Randoop</h2>\n<p>Identify which statements are true for each test generation technique:</p>\n<table>\n<tbody>\n<tr>\n<td> </td>\n<td>Korat</td>\n<td>Randoop</td>\n</tr>\n<tr>\n<td>Use type information to guide test generation.</td>\n<td>{{c1::True}}</td>\n<td>{{c2::True}}</td>\n</tr>\n<tr>\n<td>Each test is generated fully independently of past tests.</td>\n<td>{{c1::False}}</td>\n<td>{{c2::False}}</td>\n</tr>\n<tr>\n<td>Generates test deterministically.</td>\n<td>{{c1::True}}</td>\n<td>{{c2::False}}</td>\n</tr>\n<tr>\n<td>Suited to test method sequences.</td>\n<td>{{c1::False}}</td>\n<td>{{c2::True}}</td>\n</tr>\n<tr>\n<td>Avoids generating redundant tests.</td>\n<td>{{c1::True}}</td>\n<td>{{c2::True}}</td>\n</tr>\n</tbody>\n</table>",
+                ""
+            ],
+            "guid": "sW`$Cc+f1X",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Dataflow Analysis</h1>\n<h2>Control-Flow Graphs 2</h2>\n<p>Turn this control-flow graph into code:</p><p><img src=\"paste-d6e21736e30243e6690b5e3c246ebf00340435c2.jpg\"><br></p>",
+                "<pre><code>\nx = 5;\nwhile(x != 0) {\n\ty = x;\n\tx = x - 1;\n\twhile(y != 0) {\n\t\ty = y - 1;\n\t}\n}\n</code></pre>"
+            ],
+            "guid": "uM=alLI)i`",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Dataflow Analysis</h1>\n<h2>Reaching Definitions Analysis 2</h2><div><img src=\"paste-36d90ab097c614f04771ed6a8e3ef6f2723ddf4b.jpg\"><br></div><div>Select the correct statements:<br></div>\n<ol>\n<li>The assignment y = 1 reaches P1</li>\n<li>The assignment y = 1 reaches P2</li>\n<li>The assignment y = x * y reaches P1</li>\n</ol>",
+                "<ol>\n<li><span style=\"color: #00ff00;\"> The assignment y = 1 reaches P1</span></li>\n<li><span style=\"color: #ff0000; text-decoration: line-through;\">The assignment y = 1 reaches P2</span></li>\n<li><span style=\"color: #00ff00;\">The assignment y = x * y reaches P1</span></li>\n</ol>"
+            ],
+            "guid": "C$M**]YTL!",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Dataflow Analysis</h1>\n<h2>Reaching Definitions Analysis 3</h2><p><img src=\"paste-6b36491e84d80d223e14ed1e2228fa0576ac679a.jpg\"><br></p>\n<table>\n<tbody>\n<tr>\n<td>n</td>\n<td>IN[ n ]</td>\n<td>OUT[ n ]</td>\n</tr>\n<tr>\n<td>1</td>\n<td>-</td>\n<td>{&lt;x,?&gt;, &lt;y,?&gt;}</td>\n</tr>\n<tr>\n<td>2</td>\n<td>{&lt;x,?&gt;, &lt;y,?&gt;}</td>\n<td>{&lt;x,2&gt;, &lt;y,?&gt;}</td>\n</tr>\n<tr>\n<td>3</td>\n<td>{&lt;x,2&gt;, &lt;y,?&gt;}</td>\n<td>{&lt;x,2&gt;, &lt;y,3&gt;}</td>\n</tr>\n<tr>\n<td>4</td>\n<td>{{c1::{&lt;x,2&gt;,&lt;y,3&gt;,&lt;y,5&gt;,&lt;x,6&gt;}}} </td>\n<td>{{c1::{&lt;x,2&gt;,&lt;y,3&gt;,&lt;y,5&gt;,&lt;x,6&gt;}}} </td>\n</tr>\n<tr>\n<td>5</td>\n<td>{{c1::{&lt;x,2&gt;,&lt;y,3&gt;,&lt;y,5&gt;,&lt;x,6&gt;}}} </td>\n<td>{{c1::{&lt;x,2&gt;,&lt;y,5&gt;,&lt;x,6&gt;}}} </td>\n</tr>\n<tr>\n<td>6</td>\n<td> {{c1::{&lt;x,2&gt;,&lt;y,5&gt;,&lt;x,6&gt;}}} </td>\n<td> {{c1::{&lt;y,5&gt;,&lt;x,6&gt;}}} </td>\n</tr>\n<tr>\n<td>7</td>\n<td> {{c1::{&lt;x,2&gt;, &lt;y,3&gt;,&lt;y,5&gt;,&lt;x,6&gt;}}} </td>\n<td> {{c1::-}}</td>\n</tr>\n</tbody>\n</table>",
+                ""
+            ],
+            "guid": "r5arohOvfw",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Dataflow Analysis</h1>\n<h2>Very Busy Expressions Analysis 2</h2>\n<p><img src=\"paste-0abbab31edb1d7d95136922d80b82b133e29c4b9.jpg\"><br></p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td>n</td>\n<td>IN[ n ]</td>\n<td>OUT[ n ]</td>\n</tr>\n<tr>\n<td>1</td>\n<td>-</td>\n<td> {{c1::{b-a}}}</td>\n</tr>\n<tr>\n<td>2</td>\n<td> {{c1::{b-a}}}</td>\n<td> {{c1::{b-a}}}</td>\n</tr>\n<tr>\n<td>3</td>\n<td> {{c1::{a-b,b-a}}}</td>\n<td> {{c1::{a-b}}}</td>\n</tr>\n<tr>\n<td>4</td>\n<td> {{c1::{b-a}}} </td>\n<td> {{c1::Ø}}</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Ø<br></td>\n<td>{a-b}</td>\n</tr>\n<tr>\n<td>6</td>\n<td>{a-b}</td>\n<td>Ø<br></td>\n</tr>\n<tr>\n<td>7</td>\n<td>{a-b}</td>\n<td>Ø<br></td>\n</tr>\n<tr>\n<td>8</td>\n<td>Ø<br></td>\n<td>-</td>\n</tr>\n</tbody>\n</table>",
+                ""
+            ],
+            "guid": "r04c(V#-^{",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Dataflow Analysis</h1>\n<h2>Available Expressions Analysis 3</h2><div>\\({{c1::OUT}}[n] = ({{c1::IN}}[n] - KILL[n]) \\bigcup GEN[n]\\)<br></div>\\({{c1::IN}}[n] = {{c1::\\bigcap}} {{c1::OUT}}[n']\\)<br><div>\\(n' \\in {{c1::preds}}(n)\\)<br></div>",
+                ""
+            ],
+            "guid": "FK^&y7z~D~",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Dataflow Analysis</h1>\n<h2>Live Variables Analysis 3</h2><div>\\({{c1::IN}}[n] = ({{c1::OUT}}[n] - KILL[n]) \\bigcup GEN[n]\\)<br></div>\\({{c1::OUT}}[n] = {{c1::\\bigcup}} {{c1::IN}}[n']\\)<br><div>\\(n' \\in {{c1::succ}}(n)\\)<br></div>",
+                ""
+            ],
+            "guid": "m%{4N`~my)",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1>\n<h2>Normal Form of Programs</h2>\n<p>Convert the following expression to normal form:</p>\n<pre><code>v1.f = v2.f</code></pre>",
+                "<pre><code>\ntmp = v2.f\nv1.f = tmp\n</code></pre>"
+            ],
+            "guid": "A[UPMm=dAu",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1>\n<h2>Normal Form of Programs</h2>\n<p>Convert the following expression to normal form:</p>\n<pre><code>v1.f.g = v2.h</code></pre>",
+                "<pre><code>\ntmp1 = v1.f\ntmp2 = v2.h\ntmp1.g = tmp2\n</code></pre>"
+            ],
+            "guid": "MkTh+y`esO",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1>\n<h2>Pointer Analysis Example 2</h2>\n<p>What will the points-to-graph look like for this program?</p>\n<pre><code>\nclass Node{\n\tint data;\n\tNode next, prev;\n}\n\nNode h = null;\nfor(...){\n\tNode v = new Node();\n\tif(h != null){\n\t\tv.next = h;\n\t\th.prev = v;\n\t}\n\th = v;\n}\n</code></pre>",
+                "<img src=\"preview (1).png\">"
+            ],
+            "guid": "Q[l8NL6N|N",
+            "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1>\n<h2>May-Alias Analysis</h2><div><img src=\"paste-04db061ae44cc0c589f62ae063b32a47fa7b104e.jpg\"><br></div>\n<p> </p>\n<table>\n<tbody>\n<tr>\n<td>May-Alias?</td>\n<td>Allocation-Site Based</td>\n<td>Type Based</td>\n</tr>\n<tr>\n<td>e, f</td>\n<td>{{c1::No}}</td>\n<td>{{c2::No}}</td>\n</tr>\n<tr>\n<td>v.floors, v.events</td>\n<td>{{c1::No}}</td>\n<td>{{c2::Yes}}</td>\n</tr>\n<tr>\n<td>v.floors[ 0 ], v.events[ 0 ]</td>\n<td>{{c1::No}}</td>\n<td>{{c2::Yes}}</td>\n</tr>\n<tr>\n<td>v.events[ 0 ], v.events[ 2 ]</td>\n<td>{{c1::Yes}}</td>\n<td>{{c2::Yes}}</td>\n</tr>\n</tbody>\n</table>",
+                ""
+            ],
+            "guid": "n[WVA;W$FF",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1>\n<h2>Pointer Analysis Classification</h2>\n<p>Classify the pointer analysis algorithm taught in the lesson:</p>\n<table>\n<tbody>\n<tr>\n<td>Flow-sensitive?</td>\n<td>{{c1::No}}</td>\n</tr>\n<tr>\n<td>Context-sensitive?</td>\n<td>{{c1::No}}</td>\n</tr>\n<tr>\n<td>Distinguishes fields of object?</td>\n<td>{{c1::Yes}}</td>\n</tr>\n<tr>\n<td>Distinguishes elements of array?</td>\n<td>{{c1::No}}</td>\n</tr>\n<tr>\n<td>What kind of heap abstraction?</td>\n<td>{{c1::Allocation-site based}}</td>\n</tr>\n</tbody>\n</table>",
+                ""
+            ],
+            "guid": "J!Cevm1MJ+",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Automated Test Generation</h1>\n<h2>Enumerating Shapes</h2>\n<p>What is the next legal, non-isomorphic shape Korat generates?</p><p>Accepted test cases:<br></p><p><img src=\"paste-6846012e7e2ff7a771eb375aa1abb6daa8ceec6c.jpg\"><br></p>\n<table>\n<tbody>\n<tr>\n<td> </td>\n<td colspan=\"2\">N0</td>\n<td colspan=\"2\">N1</td>\n<td colspan=\"2\">N2</td>\n</tr>\n<tr>\n<td>root</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n</tr>\n<tr>\n<td>NULL</td>\n<td>NULL</td>\n<td>NULL</td>\n<td>NULL</td>\n<td>NULL</td>\n<td>NULL</td>\n<td>NULL</td>\n</tr>\n</tbody>\n</table>\n<hr>\n<table>\n<tbody>\n<tr>\n<td> </td>\n<td colspan=\"2\">N0</td>\n<td colspan=\"2\">N1</td>\n<td colspan=\"2\">N2</td>\n</tr>\n<tr>\n<td>root</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n</tr>\n<tr>\n<td>{{c1::N0}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n</tr>\n</tbody>\n</table>",
+                ""
+            ],
+            "guid": "s#I44XBxkH",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Automated Test Generation</h1>\n<h2>Enumerating Shapes</h2>\n<p>What is the next legal, non-isomorphic shape Korat generates?</p><p>Accepted test cases:</p><p><img src=\"paste-d87979fb506041f2efe2bd12ed68347fa0199468.jpg\"><br></p>\n<table>\n<tbody>\n<tr>\n<td> </td>\n<td colspan=\"2\">N0</td>\n<td colspan=\"2\">N1</td>\n<td colspan=\"2\">N2</td>\n</tr>\n<tr>\n<td>root</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n</tr>\n<tr>\n<td>N0</td>\n<td>NULL</td>\n<td>NULL</td>\n<td>NULL</td>\n<td>NULL</td>\n<td>NULL</td>\n<td>NULL</td>\n</tr>\n</tbody>\n</table>\n<hr>\n<table>\n<tbody>\n<tr>\n<td> </td>\n<td colspan=\"2\">N0</td>\n<td colspan=\"2\">N1</td>\n<td colspan=\"2\">N2</td>\n</tr>\n<tr>\n<td>root</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n</tr>\n<tr>\n<td>{{c1::N0}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::N1}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n</tr>\n</tbody>\n</table>",
+                ""
+            ],
+            "guid": "DBJVBfHFQ?",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Automated Test Generation</h1>\n<h2>Enumerating Shapes</h2>\n<p>What is the next legal, non-isomorphic shape Korat generates?</p><p>Accepted test cases:</p><p><img src=\"paste-66aca95ada69d826fc22b576beb71455a2295588.jpg\"><br></p>\n<table>\n<tbody>\n<tr>\n<td> </td>\n<td colspan=\"2\">N0</td>\n<td colspan=\"2\">N1</td>\n<td colspan=\"2\">N2</td>\n</tr>\n<tr>\n<td>root</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n</tr>\n<tr>\n<td>N0</td>\n<td>NULL</td>\n<td>N1</td>\n<td>NULL</td>\n<td>NULL</td>\n<td>NULL</td>\n<td>NULL</td>\n</tr>\n</tbody>\n</table>\n<hr>\n<table>\n<tbody>\n<tr>\n<td> </td>\n<td colspan=\"2\">N0</td>\n<td colspan=\"2\">N1</td>\n<td colspan=\"2\">N2</td>\n</tr>\n<tr>\n<td>root</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n</tr>\n<tr>\n<td>{{c1::N0}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::N1}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::N2}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n</tr>\n</tbody>\n</table>",
+                ""
+            ],
+            "guid": "Iq&r_lmBE)",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Automated Test Generation</h1>\n<h2>Enumerating Shapes</h2>\n<p>What is the next legal, non-isomorphic shape Korat generates?</p><p>Accepted test cases:</p><p><img src=\"paste-5f10438abecdb56ec2480fcad1fdf774ef43d27e.jpg\"><br></p>\n<table>\n<tbody>\n<tr>\n<td> </td>\n<td colspan=\"2\">N0</td>\n<td colspan=\"2\">N1</td>\n<td colspan=\"2\">N2</td>\n</tr>\n<tr>\n<td>root</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n</tr>\n<tr>\n<td>N0</td>\n<td>NULL</td>\n<td>N1</td>\n<td>NULL</td>\n<td>N2</td>\n<td>NULL</td>\n<td>NULL</td>\n</tr>\n</tbody>\n</table>\n<hr>\n<table>\n<tbody>\n<tr>\n<td> </td>\n<td colspan=\"2\">N0</td>\n<td colspan=\"2\">N1</td>\n<td colspan=\"2\">N2</td>\n</tr>\n<tr>\n<td>root</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n</tr>\n<tr>\n<td>{{c1::N0}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::N1}}</td>\n<td>{{c1::N2}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n</tr>\n</tbody>\n</table>",
+                ""
+            ],
+            "guid": "ba;rKc%S.o",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Automated Test Generation</h1>\n<h2>Enumerating Shapes</h2>\n<p>What is the next legal, non-isomorphic shape Korat generates?</p><p>Accepted test cases:</p><p><img src=\"paste-b8cd32ba7eab34b1ef2fb85001b754ddd6145389.jpg\"><br></p>\n<table>\n<tbody>\n<tr>\n<td> </td>\n<td colspan=\"2\">N0</td>\n<td colspan=\"2\">N1</td>\n<td colspan=\"2\">N2</td>\n</tr>\n<tr>\n<td>root</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n</tr>\n<tr>\n<td>N0</td>\n<td>NULL</td>\n<td>N1</td>\n<td>N2</td>\n<td>NULL</td>\n<td>NULL</td>\n<td>NULL</td>\n</tr>\n</tbody>\n</table>\n<hr>\n<table>\n<tbody>\n<tr>\n<td> </td>\n<td colspan=\"2\">N0</td>\n<td colspan=\"2\">N1</td>\n<td colspan=\"2\">N2</td>\n</tr>\n<tr>\n<td>root</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n</tr>\n<tr>\n<td>{{c1::N0}}</td>\n<td>{{c1::N1}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n</tr>\n</tbody>\n</table>",
+                ""
+            ],
+            "guid": "i?.$FjBc;J",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Automated Test Generation</h1>\n<h2>Enumerating Shapes</h2>\n<p>What is the next legal, non-isomorphic shape Korat generates?</p><p>Accepted test cases:</p><p><img src=\"paste-4cabbe68defa6dd959d5233ade8bca316f701175.jpg\"><br></p>\n<table>\n<tbody>\n<tr>\n<td> </td>\n<td colspan=\"2\">N0</td>\n<td colspan=\"2\">N1</td>\n<td colspan=\"2\">N2</td>\n</tr>\n<tr>\n<td>root</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n</tr>\n<tr>\n<td>N0</td>\n<td>N1</td>\n<td>NULL</td>\n<td>NULL</td>\n<td>NULL</td>\n<td>NULL</td>\n<td>NULL</td>\n</tr>\n</tbody>\n</table>\n<hr>\n<table>\n<tbody>\n<tr>\n<td> </td>\n<td colspan=\"2\">N0</td>\n<td colspan=\"2\">N1</td>\n<td colspan=\"2\">N2</td>\n</tr>\n<tr>\n<td>root</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n<td>left</td>\n<td>right</td>\n</tr>\n<tr>\n<td>{{c1::N0}}</td>\n<td>{{c1::N1}}</td>\n<td>{{c1::N2}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n<td>{{c1::NULL}}</td>\n</tr>\n</tbody>\n</table>",
+                ""
+            ],
+            "guid": "MGeS!P@&x,",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Pointer Analysis</h1>What are 3 heap abstraction schemes?\n<ol>\n<li>{{c1::<b>Allocation-site based</b>: one abstract object per allocation site. An allocation site is the new or malloc keywords}}<br></li>\n<li>{{c2::<b>Type-based</b>: allocation-site scheme can be costly for large programs or if&nbsp;a quick turnaround time is needed (like for an IDE). There is one&nbsp;abstract object per type (e.g. a Circle object).}}<br></li>\n<li>{{c3::<b>Heap-Insensitive</b>: Single abstract object representing the entire heap.<br>This scheme is highly imprecise. Useful for programs with primarily stack-directed pointers like C where most references are arrays.}}<br></li>\n</ol>",
+                ""
+            ],
+            "guid": "kV@-VTrd!(",
+            "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+            "tags": []
+        }
+    ]
+}

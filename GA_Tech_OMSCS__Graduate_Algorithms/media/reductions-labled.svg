@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="649.16" height="634.67" version="1.1" viewBox="0 0 486.87 476" xmlns="http://www.w3.org/2000/svg">
+ <g class="graph" transform="translate(4 472)">
+  <title>G</title>
+  <polygon points="482.87 -472 482.87 4 -4 4 -4 -472" fill="#fff" stroke="transparent"/>
+  <g class="node">
+   <title>np</title>
+   <ellipse cx="223.32" cy="-450" rx="48.69" ry="18" fill="none" stroke="#000"/>
+   <text x="223.32001" y="-445.79999" font-family="Times, serif" font-size="14px" text-anchor="middle">All of NP</text>
+  </g>
+  <g class="node">
+   <title>SAT</title>
+   <ellipse cx="223.32" cy="-378" rx="29.06" ry="18" fill="none" stroke="#000"/>
+   <text x="223.32001" y="-373.79999" font-family="Times, serif" font-size="14px" text-anchor="middle">SAT</text>
+  </g>
+  <g class="node">
+   <title>3SAT</title>
+   <ellipse cx="223.32" cy="-306" rx="34.22" ry="18" fill="none" stroke="#000"/>
+   <text x="223.32001" y="-301.79999" font-family="Times, serif" font-size="14px" text-anchor="middle">3SAT</text>
+  </g>
+  <g class="edge">
+   <title>np-&gt;SAT</title>
+   <path d="m223.32-431.7v25.59" fill="none" stroke="#000"/>
+   <polygon points="219.82 -406.1 226.82 -406.1 223.32 -396.1" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>SAT-&gt;3SAT</title>
+   <path d="m223.32-359.7v25.59" fill="none" stroke="#000"/>
+   <polygon points="219.82 -334.1 226.82 -334.1 223.32 -324.1" stroke="#000"/>
+  </g>
+  <g class="node">
+   <title>VC</title>
+   <ellipse cx="63.32" cy="-162" rx="63.15" ry="18" fill="none" stroke="#000"/>
+   <text x="63.32" y="-157.8" font-family="Times, serif" font-size="14px" text-anchor="middle">Vertex Cover</text>
+  </g>
+  <g class="node">
+   <title>Clique</title>
+   <ellipse cx="181.32" cy="-162" rx="36.57" ry="18" fill="none" stroke="#000"/>
+   <text x="181.32001" y="-157.8" font-family="Times, serif" font-size="14px" text-anchor="middle">Clique</text>
+  </g>
+  <g class="node">
+   <title>IS</title>
+   <ellipse cx="146.32" cy="-234" rx="73.54" ry="18" fill="none" stroke="#000"/>
+   <text x="146.32001" y="-229.8" font-family="Times, serif" font-size="14px" text-anchor="middle">Independent Set</text>
+  </g>
+  <g class="edge">
+   <title>3SAT-&gt;IS</title>
+   <path d="m206.99-290.15c-10.11 9.19-23.32 21.2-34.83 31.67" fill="none" stroke="#000"/>
+   <polygon points="169.56 -260.86 174.27 -255.68 164.52 -251.54" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>IS-&gt;VC</title>
+   <path d="m126.65-216.41c-10.82 9.13-24.42 20.6-36.24 30.57" fill="none" stroke="#000"/>
+   <polygon points="87.95 -188.35 92.47 -183 82.57 -179.23" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>3SAT-&gt;3DM</title>
+   <path d="m239.65-290.15c10.19 9.26 23.52 21.37 35.09 31.89" fill="none" stroke="#000"/>
+   <polygon points="272.65 -255.43 277.36 -260.61 282.41 -251.29" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>IS-&gt;Clique</title>
+   <path d="m154.8-216.05c4.08 8.16 9.07 18.14 13.61 27.23" fill="none" stroke="#000"/>
+   <polygon points="165.33 -187.17 171.59 -190.3 172.93 -179.79" stroke="#000"/>
+  </g>
+  <g class="node">
+   <title>3DM</title>
+   <ellipse cx="300.32" cy="-234" rx="62.03" ry="18" fill="none" stroke="#000"/>
+   <text x="300.32001" y="-229.8" font-family="Times, serif" font-size="14px" text-anchor="middle">3D Matching</text>
+  </g>
+  <g class="node">
+   <title>ZOE</title>
+   <ellipse cx="300.32" cy="-162" rx="29.62" ry="18" fill="none" stroke="#000"/>
+   <text x="300.32001" y="-157.8" font-family="Times, serif" font-size="14px" text-anchor="middle">ZOE</text>
+  </g>
+  <g class="node">
+   <title>SUBSUM</title>
+   <ellipse cx="198.32" cy="-90" rx="56.83" ry="18" fill="none" stroke="#000"/>
+   <text x="198.32001" y="-85.800003" font-family="Times, serif" font-size="14px" text-anchor="middle">Subset Sum</text>
+  </g>
+  <g class="node">
+   <title>ILP</title>
+   <ellipse cx="300.32" cy="-90" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="300.32001" y="-85.800003" font-family="Times, serif" font-size="14px" text-anchor="middle">ILP</text>
+  </g>
+  <g class="edge">
+   <title>3DM-&gt;ZOE</title>
+   <path d="m300.32-215.7v25.59" fill="none" stroke="#000"/>
+   <polygon points="296.82 -190.1 303.82 -190.1 300.32 -180.1" stroke="#000"/>
+  </g>
+  <g class="node">
+   <title>Rudrata</title>
+   <ellipse cx="412.32" cy="-90" rx="66.59" ry="18" fill="none" stroke="#000"/>
+   <text x="412.32001" y="-85.800003" font-family="Times, serif" font-size="14px" text-anchor="middle">Rudrata Cycle</text>
+  </g>
+  <g class="edge">
+   <title>ZOE-&gt;ILP</title>
+   <path d="m300.32-143.7v25.59" fill="none" stroke="#000"/>
+   <polygon points="296.82 -118.1 303.82 -118.1 300.32 -108.1" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>Rudrata-&gt;TSP</title>
+   <path d="m412.32-71.7v25.59" fill="none" stroke="#000"/>
+   <polygon points="408.82 -46.1 415.82 -46.1 412.32 -36.1" stroke="#000"/>
+  </g>
+  <g class="node">
+   <title>TSP</title>
+   <ellipse cx="412.32" cy="-18" rx="27.85" ry="18" fill="none" stroke="#000"/>
+   <text x="412.32001" y="-13.8" font-family="Times, serif" font-size="14px" text-anchor="middle">TSP</text>
+  </g>
+  <g class="edge">
+   <title>ZOE-&gt;SUBSUM</title>
+   <path d="m281.14-147.83c-14.55 9.98-34.84 23.91-51.7 35.48" fill="none" stroke="#000"/>
+   <polygon points="227.25 -115.1 231.21 -109.32 220.99 -106.55" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>ZOE-&gt;Rudrata</title>
+   <path d="m320.35-148.49c16.08 10.05 39.02 24.39 57.96 36.23" fill="none" stroke="#000"/>
+   <polygon points="376.64 -109.18 380.35 -115.11 386.97 -106.85" stroke="#000"/>
+  </g>
+ </g>
+</svg>

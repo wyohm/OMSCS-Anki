@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="230.49mm" height="63.592mm" version="1.1" viewBox="0 0 230.49 63.592" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="Arrow1Mend" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <g transform="translate(-15.23 -84.957)">
+  <g transform="translate(0 .97861)">
+   <circle cx="30.73" cy="121.2" r="15" fill="#fff" stroke="#73ff00"/>
+   <text x="27.11272" y="125.0611" fill="#000000" font-family="sans-serif" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="27.11272" y="125.0611" stroke-width=".26458">A</tspan></text>
+  </g>
+  <g transform="translate(2.9185 2.6954)">
+   <circle cx="76.053" cy="119.49" r="15" fill="#fff" stroke="#73ff00"/>
+   <text x="67.215965" y="122.72939" fill="#000000" font-family="sans-serif" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="67.215965" y="122.72939" stroke-width=".26458">B,E</tspan></text>
+  </g>
+  <g transform="translate(1.0301 1.322)">
+   <ellipse cx="126.18" cy="120.86" rx="17.366" ry="14.963" fill="#fff" stroke="#73ff00" stroke-width="1.0746"/>
+   <text x="112.1158" y="124.17257" fill="#000000" font-family="sans-serif" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="112.1158" y="124.17257" stroke-width=".26458">C,F,G</tspan></text>
+  </g>
+  <g transform="translate(6.0087 1.322)">
+   <circle cx="169.44" cy="120.86" r="15" fill="#fff" stroke="#73ff00"/>
+   <text x="165.16315" y="124.71776" fill="#000000" font-family="sans-serif" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="165.16315" y="124.71776" stroke-width=".26458">D</tspan></text>
+  </g>
+  <g>
+   <ellipse cx="223.69" cy="122.18" rx="21.428" ry="14.904" fill="#fff" stroke="#73ff00" stroke-width="1.1914"/>
+   <text x="202.95654" y="124.98035" fill="#000000" font-family="sans-serif" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="202.95654" y="124.98035" stroke-width=".26458">H,I,J,K,L</tspan></text>
+  </g>
+  <g fill="none" stroke="#000">
+   <path d="m45.666 122.92h18.198" marker-end="url(#Arrow1Mend)"/>
+   <g>
+    <path d="m93.392 122.92h16.481" marker-end="url(#Arrow1Mend)" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m86.525 135.62c24.721 28.155 80.001-0.34335 80.001-0.34335" marker-end="url(#Arrow1Mend)" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m137 109.87c27.812-20.945 72.447-0.34335 72.447-0.34335" marker-end="url(#Arrow1Mend)" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m82.405 106.78c74.164-48.413 140.43 0.6867 140.43 0.6867" marker-end="url(#Arrow1Mend)" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+   </g>
+  </g>
+ </g>
+</svg>

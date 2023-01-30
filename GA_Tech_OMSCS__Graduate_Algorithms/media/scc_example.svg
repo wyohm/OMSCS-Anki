@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="434.59" height="918" version="1.1" viewBox="0 0 325.94 688.5" xmlns="http://www.w3.org/2000/svg">
+ <g class="graph" transform="matrix(3.6622 0 0 3.6622 14.649 673.85)">
+  <polygon points="85 -184 85 4 -4 4 -4 -184" fill="#fff" stroke="transparent"/>
+  <g class="node">
+   <title>A</title>
+   <ellipse cx="54" cy="-162" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="54" y="-157.8" font-family="Times, serif" font-size="14px" text-anchor="middle">A</text>
+  </g>
+  <g class="node">
+   <title>B</title>
+   <ellipse cx="27" cy="-90" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="27" y="-85.800003" font-family="Times, serif" font-size="14px" text-anchor="middle">B</text>
+  </g>
+  <g class="edge">
+   <title>A-&gt;B</title>
+   <path d="m47.6-144.41c-3.11 8.07-6.93 17.98-10.43 27.06" fill="none" stroke="#000"/>
+   <polygon points="33.87 -118.55 40.4 -116.03 33.54 -107.96" stroke="#000"/>
+  </g>
+  <g class="node">
+   <title>C</title>
+   <ellipse cx="54" cy="-18" rx="27" ry="18" fill="none" stroke="#000"/>
+   <text x="54" y="-13.8" font-family="Times, serif" font-size="14px" text-anchor="middle">C</text>
+  </g>
+  <g class="edge">
+   <title>B-&gt;C</title>
+   <path d="m33.4-72.41c3.11 8.07 6.93 17.98 10.43 27.06" fill="none" stroke="#000"/>
+   <polygon points="40.6 -44.03 47.13 -46.55 47.46 -35.96" stroke="#000"/>
+  </g>
+  <g class="edge">
+   <title>C-&gt;A</title>
+   <path d="m57.65-36.09c2.03-10.34 4.33-23.82 5.35-35.91 1.34-15.94 1.34-20.06 0-36-0.72-8.5-2.07-17.69-3.51-25.99" fill="none" stroke="#000"/>
+   <polygon points="62.91 -134.71 56.03 -133.44 57.65 -143.91" stroke="#000"/>
+  </g>
+ </g>
+</svg>
