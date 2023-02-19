@@ -13,3 +13,9 @@ Please feel free to fork and contribute to this repo I only ask that:
 3. When creating additional decks please use the following example naming schema when titling decks as this helps keep the deck organized into folders.
 
 - GA Tech OMSCS::Computer Networks::Lesson 1: Intro, History, and Internet Arch.
+
+## Signing your commits
+
+If you would like to sign your commits you can use the same SSH key to sign your commits as youdo for pushing to your repo:
+
+[Creating a signing key using SSH and adding it to your Github Profile](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification#ssh-commit-signature-verification)
