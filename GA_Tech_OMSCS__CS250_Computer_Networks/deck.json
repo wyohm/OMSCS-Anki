@@ -11,96 +11,13 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "540bb02910f64fd3a5d305062ac983ca-oa-1-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-1-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-10-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-10-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-11-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-11-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-12-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-12-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-13-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-13-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-14-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-14-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-15-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-15-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-16-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-16-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-17-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-17-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-18-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-18-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-19-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-19-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-2-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-2-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-20-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-20-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-21-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-21-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-3-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-3-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-4-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-4-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-5-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-5-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-6-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-6-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-7-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-7-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-8-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-8-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-9-A.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-9-Q.svg",
-                "540bb02910f64fd3a5d305062ac983ca-oa-O.svg",
                 "6zSCXW2xImcevCSfSy7zUn3XbGhuKHl2fnTJ6j4SmnSVrs24nVseWlHSaGedNRJ6rGJtovtDMdRdnpsG2AT6d5tAjJRZOHr-IFv_C8SuAE3Vcdt0L3j.png",
                 "OXJU_PiXQ8ud3MCCBpmsr8o2bPCaNqEjIowfGsz7MzguZEOLG2eAtXLXGpECgLNtO5c22WXvxxjXZJUkEzLnAaoIpq9Rg97e8swPuZ4XaYWNhrr2wCY.png",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-1-A.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-1-Q.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-10-A.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-10-Q.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-11-A.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-11-Q.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-12-A.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-12-Q.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-13-A.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-13-Q.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-14-A.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-14-Q.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-15-A.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-15-Q.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-16-A.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-16-Q.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-2-A.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-2-Q.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-3-A.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-3-Q.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-4-A.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-4-Q.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-5-A.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-5-Q.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-6-A.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-6-Q.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-7-A.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-7-Q.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-8-A.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-8-Q.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-9-A.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-9-Q.svg",
-                "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-O.svg",
-                "paste-17f75faa8f5819df80844121056ca1503726dafd.jpg",
                 "paste-27e5ad70d0ee87058c016c89bdc9fb8be0ace77e.jpg",
                 "paste-4cd125ed2523225424e18edda8e616ca2b3ef878.jpg",
-                "paste-59868afdb92b9e036498455ae09c2aa16bced027.jpg",
-                "paste-5cf7be958410c3700b9c5ca51016cd0cb020a07b.jpg",
                 "paste-888e8fccd34d585b3b577c80afd3e8ce70d00bc5.jpg",
                 "paste-aea946f1b8898c759f980cd94d31249b4af29d32.jpg",
-                "paste-cba95b0ccad4cd508199f24a1c6d3f36f5745ca1.jpg",
-                "paste-da46eec4c8cce71ece6e06ef3c2271da6b1142b6.jpg",
-                "paste-eff2f16e5153efef548d03e4bcc00afb99c40406.jpg",
-                "tmp_iwz_ej2.jpg",
-                "tmppft9thz8.jpg"
+                "paste-eff2f16e5153efef548d03e4bcc00afb99c40406.jpg"
             ],
             "name": "Lesson 1: Intro, History, and Internet Arch.",
             "notes": [
@@ -153,7 +70,7 @@
                     "__type__": "Note",
                     "fields": [
                         "What are the <b>similarities</b> between the OSI model and the five-layered Internet model?",
-                        "They both represent layered network architecture with a physical, data link, network, transport, and application layer.<br><br>and have the same advantages and disadvantages when it comes to utilize a layered architecture.<br><br><ul style=\"\"><li style=\"font-weight: bold;\"><div>Advantages</div></li><ul style=\"font-weight: bold;\"><li><div><span style=\"font-weight: 400;\">Scalability</span></div></li><li><div><span style=\"font-weight: 400;\">Modularity</span></div></li><li><div><span style=\"font-weight: 400;\">Flexibility (add or delete components)</span></div></li></ul><li style=\"font-weight: bold;\"><div>Disadvantages</div></li><ul style=\"font-weight: bold;\"><li><div><span style=\"font-weight: 400;\">Cross-layer dependencies that violate the goal of layer separation</span></div></li><li><div><span style=\"font-weight: 400;\">Duplicate functionality, i.e. error recovery&nbsp;</span></div></li><li><div><span style=\"font-weight: 400;\">Increased overhead in computation and in message headers caused by the abstraction barriers between layers</span></div></li></ul><li style=\"\"><b><span style=\"font-weight: 400;\"><img src=\"OXJU_PiXQ8ud3MCCBpmsr8o2bPCaNqEjIowfGsz7MzguZEOLG2eAtXLXGpECgLNtO5c22WXvxxjXZJUkEzLnAaoIpq9Rg97e8swPuZ4XaYWNhrr2wCY.png\"></span></b><br></li><li style=\"\"><b><span style=\"font-weight: 400;\"><b><span style=\"font-weight: 400;\"><img src=\"6zSCXW2xImcevCSfSy7zUn3XbGhuKHl2fnTJ6j4SmnSVrs24nVseWlHSaGedNRJ6rGJtovtDMdRdnpsG2AT6d5tAjJRZOHr-IFv_C8SuAE3Vcdt0L3j.png\"></span></b><br></span></b></li></ul>",
+                        "They both represent layered network architecture with a physical, data link, network, transport, and application layer. and have the same advantages and disadvantages when it comes to utilize a layered architecture.<br><ul style=\"\"><li style=\"font-weight: bold;\"><div>Advantages</div></li><ul style=\"font-weight: bold;\"><li><div><span style=\"font-weight: 400;\">Scalability</span></div></li><li><div><span style=\"font-weight: 400;\">Modularity</span></div></li><li><div><span style=\"font-weight: 400;\">Flexibility (add or delete components)</span></div></li></ul><li style=\"font-weight: bold;\"><div>Disadvantages</div></li><ul style=\"font-weight: bold;\"><li><div><span style=\"font-weight: 400;\">Cross-layer dependencies that violate the goal of layer separation</span></div></li><li><div><span style=\"font-weight: 400;\">Duplicate functionality, i.e. error recovery&nbsp;</span></div></li><li><div><span style=\"font-weight: 400;\">Increased overhead in computation and in message headers caused by the abstraction barriers between layers</span></div></li></ul><li style=\"\"><b><span style=\"font-weight: 400;\"><img src=\"OXJU_PiXQ8ud3MCCBpmsr8o2bPCaNqEjIowfGsz7MzguZEOLG2eAtXLXGpECgLNtO5c22WXvxxjXZJUkEzLnAaoIpq9Rg97e8swPuZ4XaYWNhrr2wCY.png\"></span></b><br></li><li style=\"\"><b><span style=\"font-weight: 400;\"><b><span style=\"font-weight: 400;\"><img src=\"6zSCXW2xImcevCSfSy7zUn3XbGhuKHl2fnTJ6j4SmnSVrs24nVseWlHSaGedNRJ6rGJtovtDMdRdnpsG2AT6d5tAjJRZOHr-IFv_C8SuAE3Vcdt0L3j.png\"></span></b><br></span></b></li></ul>",
                         ""
                     ],
                     "guid": "o.5G.X])fv",
@@ -182,7 +99,7 @@
                     "__type__": "Note",
                     "fields": [
                         "What are the 7 layers in the OSI Model?",
-                        "<b><span style=\"font-weight: 400;\"><img src=\"OXJU_PiXQ8ud3MCCBpmsr8o2bPCaNqEjIowfGsz7MzguZEOLG2eAtXLXGpECgLNtO5c22WXvxxjXZJUkEzLnAaoIpq9Rg97e8swPuZ4XaYWNhrr2wCY.png\"><br></span></b><br>\"Physical DataLink Network Transport Session Presentation Application\"",
+                        "<ol><li>Physical</li><li>DataLink</li><li>Network</li><li>Transport</li><li>Session</li><li>Presentation</li><li>Application</li></ol>",
                         ""
                     ],
                     "guid": "Rc3)&:(Mpm",
@@ -202,489 +119,6 @@
                     ],
                     "guid": "N$A%18OXmx",
                     "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-1",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-1-Q.svg\">",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-1-A.svg\">",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\">"
-                    ],
-                    "guid": "vmK9%jw2yX",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-2",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-2-A.svg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "zTG1??~#>_",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-3",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-3-A.svg\">",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "jgK+:_!;T(",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-4",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-4-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-4-A.svg\">",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "y3Z@@JLu3Q",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-5",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-5-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-5-A.svg\">",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "&t|8BBuz?",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-6",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-6-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-6-A.svg\">",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "qokA@2p/lB",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-7",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-7-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-7-A.svg\">",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "dtRRNX~z0?",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-8",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-8-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-8-A.svg\">",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "QZG9[pW1y?",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-9",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-9-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-9-A.svg\">",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "C!AfTZ+PW8",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-10",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-10-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-10-A.svg\">",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "Gkq]66=R:T",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-11",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-11-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-11-A.svg\">",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "zSQ&t=ANj%",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-12",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-12-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-12-A.svg\">",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "be_iuM(IIS",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-13",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-13-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-13-A.svg\">",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "iRw>PZvveF",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-14",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-14-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-14-A.svg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "g3}p]=)}H2",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-15",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-15-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-15-A.svg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "l,H~n=FgX~",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-16",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-16-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-16-A.svg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "K~kN3KlY-]",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-17",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\">",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-17-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-17-A.svg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "d=V$BJl@}@",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-18",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-18-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-18-A.svg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "FgY%xem:Rt",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-19",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-19-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-19-A.svg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "QFj^&qabSz",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-20",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-20-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-20-A.svg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "Qk*fXpX#y3",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "540bb02910f64fd3a5d305062ac983ca-oa-21",
-                        "",
-                        "<img src=\"tmp_iwz_ej2.jpg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-21-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-21-A.svg\" />",
-                        "<img src=\"540bb02910f64fd3a5d305062ac983ca-oa-O.svg\" />"
-                    ],
-                    "guid": "e*UL},gh$]",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -874,8 +308,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<img src=\"paste-cba95b0ccad4cd508199f24a1c6d3f36f5745ca1.jpg\">",
-                        "<img src=\"paste-59868afdb92b9e036498455ae09c2aa16bced027.jpg\">",
+                        "What are the information packets (PDUs) called at the Application layer?",
+                        "Messages",
                         ""
                     ],
                     "guid": "re0_&mBt;!",
@@ -889,380 +323,12 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<img src=\"paste-5cf7be958410c3700b9c5ca51016cd0cb020a07b.jpg\">",
-                        "<img src=\"paste-da46eec4c8cce71ece6e06ef3c2271da6b1142b6.jpg\" data-editor-shrink=\"true\">",
+                        "What are information packets (PDUs) called at the Transport layer?",
+                        "Segments",
                         ""
                     ],
                     "guid": "Hh1=*hYgkb",
                     "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-1",
-                        "",
-                        "<img src=\"tmppft9thz8.jpg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-1-Q.svg\">",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-1-A.svg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-O.svg\">"
-                    ],
-                    "guid": "v]wgUoXDK*",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-2",
-                        "",
-                        "<img src=\"tmppft9thz8.jpg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-2-A.svg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-O.svg\" />"
-                    ],
-                    "guid": "sc~t&EUDBP",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-3",
-                        "",
-                        "<img src=\"tmppft9thz8.jpg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-3-A.svg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-O.svg\" />"
-                    ],
-                    "guid": "x<KTO_5;?v",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-4",
-                        "",
-                        "<img src=\"tmppft9thz8.jpg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-4-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-4-A.svg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-O.svg\" />"
-                    ],
-                    "guid": "yJlgj)Ot&y",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-5",
-                        "",
-                        "<img src=\"tmppft9thz8.jpg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-5-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-5-A.svg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-O.svg\" />"
-                    ],
-                    "guid": "A:|^BTE%[P",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-6",
-                        "",
-                        "<img src=\"tmppft9thz8.jpg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-6-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-6-A.svg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-O.svg\" />"
-                    ],
-                    "guid": "gxKMHN[ZI$",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-7",
-                        "",
-                        "<img src=\"tmppft9thz8.jpg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-7-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-7-A.svg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-O.svg\">"
-                    ],
-                    "guid": "ykWE],bz-X",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-8",
-                        "",
-                        "<img src=\"tmppft9thz8.jpg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-8-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-8-A.svg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-O.svg\" />"
-                    ],
-                    "guid": "t8M.V<Es}b",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-9",
-                        "",
-                        "<img src=\"tmppft9thz8.jpg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-9-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-9-A.svg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-O.svg\" />"
-                    ],
-                    "guid": "Aw.+?G5+hc",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-10",
-                        "",
-                        "<img src=\"tmppft9thz8.jpg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-10-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-10-A.svg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-O.svg\" />"
-                    ],
-                    "guid": "Ofz&dx!X_",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-11",
-                        "",
-                        "<img src=\"tmppft9thz8.jpg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-11-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-11-A.svg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-O.svg\" />"
-                    ],
-                    "guid": "jQoy2o%F]%",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-12",
-                        "",
-                        "<img src=\"tmppft9thz8.jpg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-12-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-12-A.svg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-O.svg\" />"
-                    ],
-                    "guid": "IdLKT+/onF",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-13",
-                        "",
-                        "<img src=\"tmppft9thz8.jpg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-13-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-13-A.svg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-O.svg\" />"
-                    ],
-                    "guid": "JN9:o{V}Az",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-14",
-                        "",
-                        "<img src=\"tmppft9thz8.jpg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-14-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-14-A.svg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-O.svg\" />"
-                    ],
-                    "guid": "D<)#O|{+*/",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-15",
-                        "",
-                        "<img src=\"tmppft9thz8.jpg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-15-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-15-A.svg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-O.svg\">"
-                    ],
-                    "guid": "7soy)2F!#",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-                    "tags": [
-                        "cn",
-                        "cn::exam1",
-                        "cn::lesson1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "a1ca5bd29fd84d3380e262f4c5fc0b15-oa-16",
-                        "",
-                        "<img src=\"tmppft9thz8.jpg\">",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-16-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-16-A.svg\" />",
-                        "<img src=\"a1ca5bd29fd84d3380e262f4c5fc0b15-oa-O.svg\" />"
-                    ],
-                    "guid": "qPB,w2m&@U",
-                    "note_model_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -1329,7 +395,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b><span style=\"font-weight: 400;\">T/F<br></span></b><br><img src=\"paste-17f75faa8f5819df80844121056ca1503726dafd.jpg\"><br><br>Firewalls violate the e2e principle since they are intermediate devices operated between two end hosts and can drop the end hosts' communication.&nbsp;",
+                        "<b><span style=\"font-weight: 400;\">T/F<br></span></b><br>Firewalls violate the e2e principle since they are intermediate devices operated between two end hosts and can drop the end hosts' communication.&nbsp;",
                         "True",
                         ""
                     ],
@@ -1768,6 +834,76 @@
                     "tags": [
                         "Weekly_Quiz"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is used for addressing at the Transport layer?",
+                        "Port #"
+                    ],
+                    "guid": "CQ$eTh##;!",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is used for addressing at the Network layer?",
+                        "IP Address"
+                    ],
+                    "guid": "b3s%v:v5[y",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is used for addressing at the Datalink layer?",
+                        "Mac Address"
+                    ],
+                    "guid": "lYGKcRX{bo",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are information packets (PDUs) called at the Network layer?",
+                        "Datagrams"
+                    ],
+                    "guid": "zN;r!6b:{]",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are information packets (PDUs) called at the Datalink layer?",
+                        "Frames"
+                    ],
+                    "guid": "h..HQE~#+_",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are information packets (PDUs) called at the Physical layer?",
+                        "Bits"
+                    ],
+                    "guid": "C>6%Yr*/R%",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are PDUs called at each layer of the OSI model beginning at the Physical layer?",
+                        "1. Bit<br>2. Frame<br>3.Packet<br>4. Segment on TCP and&nbsp;<strong>datagram on UDP</strong><br>5-7. Messages or Data"
+                    ],
+                    "guid": "bft7?Ko@d>",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
                 }
             ]
         },
@@ -1780,11 +916,7 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [
-                "latex-9ad99798ec4c38e165cf517cb9e02b1c9e824103.png",
-                "latex-a9f23bf124b6b2b2a993eb313c72e678664ac74a.png",
-                "latex-afce2822f3f38f916d0f810911d772603e8e27df.png"
-            ],
+            "media_files": [],
             "name": "Lesson 3: Intradomain Routing",
             "newLimit": null,
             "newLimitToday": null,
@@ -1893,7 +1025,7 @@
                     "__type__": "Note",
                     "fields": [
                         "What is the computational complexity of the Linkstate Routing Algorithm where n represents the nodes in the topology?",
-                        "[$]O(n^{2})[/$]"
+                        "\\(O(n^{2})\\)"
                     ],
                     "guid": "P&o>*qe7Ua",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -2023,7 +1155,7 @@
                     "__type__": "Note",
                     "fields": [
                         "What happens during the iterative part of the Linkstate Routing Algorithm?&nbsp;",
-                        "<div><ol><li>look at the set of nodes that are NOT included in N’, and we identify the node (say w) with the least cost path from the previous iteration</li><li>We add the node w (that has the least cost path from the previous iteration) into N’</li><li>For every neighbor v of w, we update D(v)</li><li>(cost of the current least cost path from w</li><li>to v)</li></ol></div>"
+                        "<ol><li>look at the set of nodes that are NOT included in N’, and we identify the node ex.&nbsp;\\(w\\)&nbsp;with the least cost path from the previous iteration</li><li>We add the node&nbsp;&nbsp;\\(w\\)&nbsp;&nbsp;(that has the least cost path from the previous iteration) into N’</li><li>For every neighbor v of w, we update&nbsp;\\(D(v) \\)&nbsp;which is the cost of the current least cost path from&nbsp;&nbsp;\\(w\\)&nbsp;&nbsp;to&nbsp;&nbsp;\\(v\\)&nbsp;</li></ol>"
                     ],
                     "guid": "m1fk3*hRrV",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -2113,7 +1245,7 @@
                     "__type__": "Note",
                     "fields": [
                         "In what algorithms does a node maintain its view of the network in a table?",
-                        "Distance Vector Routing<br>Link State Routing<br>Djykstras Algorithm"
+                        "<ul><li>Distance Vector Routing</li><li>Link State Routing</li><li>Djykstras Algorithm</li></ul>"
                     ],
                     "guid": "o.e^}0%M5W",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -2123,7 +1255,7 @@
                     "__type__": "Note",
                     "fields": [
                         "What happens during the Initialization stage of the Linkstate Routing Algorithm?",
-                        "We initialize all the currently known least-cost paths from a source node [$]u[/$] to its directly attached neighbors [$]v[/$]<br>For nodes that are not directly attached to the source node [$]u[/$]&nbsp;, initialize the cost to&nbsp;∞<br>initialize the set&nbsp;N′&nbsp;to include only the source node&nbsp;[$]u[/$]"
+                        "We initialize all the currently known least-cost paths from a source node&nbsp;\\(u\\)&nbsp;&nbsp;to its directly attached neighbors&nbsp;\\(v\\)&nbsp;<br>For nodes that are not directly attached to the source node&nbsp;\\(u\\)&nbsp;, initialize the cost to&nbsp;∞<br>initialize the set&nbsp;\\(N'\\)&nbsp;to include only the source node&nbsp;\\(u\\)&nbsp;"
                     ],
                     "guid": "f_b&ooB}6v",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -2289,7 +1421,7 @@
                     "__type__": "Note",
                     "fields": [
                         "The four reasons why networks choose to peer at IXPs?",
-                        "<div><div>1. They keep <b>local traffic local</b></div></div><div><div>2. They operate at a <b>lower cost</b></div><div>3. <b>Critical players</b> in today’s Internet ecosystem often “<b>incentivize</b>” other networks to connect at IXPs</div></div><div><div>4. Network performance is improved due to <b>reduced delay</b></div></div>"
+                        "<div><ol><li>They keep <b>local traffic local</b></li><li>They operate at a <b>lower cost</b></li><li><b>Critical players</b> in today’s Internet ecosystem often “<b>incentivize</b>” other networks to connect at IXPs</li><li>Network performance is improved due to <b>reduced delay</b></li></ol></div>"
                     ],
                     "guid": "eJF5IkqHfD",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -2299,7 +1431,7 @@
                     "__type__": "Note",
                     "fields": [
                         "What are four services offered by IXPs?",
-                        "<div><div>1. <b>Public</b> Peering</div></div><div><div>2. <b>Private</b> Peering</div></div><div><div>3. <b>Remote</b> peering through resellers<br></div></div><div><div>4. <b>DDoS Blackholing</b></div></div>"
+                        "<div><ol><li><b>Public</b> Peering</li><li><b>Private</b> Peering</li><li><b>Remote</b> peering through resellers</li><li><b>DDoS Blackholing</b></li></ol></div>"
                     ],
                     "guid": "heL{j1Kful",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -2319,7 +1451,7 @@
                     "__type__": "Note",
                     "fields": [
                         "4 examples of Interior Gateway Protocols (IGPs):",
-                        "<div><div>Open Shortest Paths First (OSPF)</div></div><div><div>Intermediate System - Intermediate System (IS-IS)</div></div><div><div>Routing Information Protocol (RIP)</div></div><div><div>Enhanced Interior Gateway Routing Protocol (E-IGRP)</div></div>"
+                        "<div><ul><li>Open Shortest Paths First (OSPF)</li><li>Intermediate System - Intermediate System (IS-IS)</li><li>Routing Information Protocol (RIP)</li><li>Enhanced Interior Gateway Routing Protocol (E-IGRP)</li></ul></div>"
                     ],
                     "guid": "J=)2byX$DF",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -2369,7 +1501,7 @@
                     "__type__": "Note",
                     "fields": [
                         "What are the two types of BGP messages?",
-                        "UPDATE<br>KEEPALIVE"
+                        "<ul><li>UPDATE</li><li>KEEPALIVE</li></ul>"
                     ],
                     "guid": "CTt.SX);66",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -2389,7 +1521,7 @@
                     "__type__": "Note",
                     "fields": [
                         "<div><div>What are the three main things that are true about Provider-Customer relationships.</div></div>",
-                        "<div><div>1. Provider-Customer relationship (or transit) is based on a financial settlement that determines how much the customer will pay the provider</div></div><div><div>2. Provider ASes have a financial incentive to forward as much of their customers’ traffic as possible.</div></div><div>3. In a Provider-Customer relationship (or transit), the provider forwards the customer's traffic to destinations found in the provider's routing table (including the opposite direction of the traffic).<br></div>"
+                        "<div><ul><li>Provider-Customer relationship (or transit) is based on a financial settlement that determines how much the customer will pay the provider</li><li>Provider ASes have a financial incentive to forward as much of their customers’ traffic as possible.</li><li>In a Provider-Customer relationship (or transit), the provider forwards the customer's traffic to destinations found in the provider's routing table (including the opposite direction of the traffic).</li></ul></div>"
                     ],
                     "guid": "NMG=$o~nwP",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -2399,7 +1531,7 @@
                     "__type__": "Note",
                     "fields": [
                         "How is a multi-lateral BGP peering session maintained by an IXP route server?",
-                        "<div><div><div><div>1. Runs BGP independently with every participant AS and maintains a <b>participant Routing Information Base (RIB)</b></div></div><div><div>2. Uses <b>Import filters</b> to ensure that each member AS only advertises routes that it should advertise</div></div><div><div>3. Uses <b>Export filters</b> that are triggered by IXP members to restrict the set of other IXP member ASes that receive their routes</div></div></div></div>"
+                        "<div><ol><li>Runs BGP independently with every participant AS and maintains a <b>participant Routing Information Base (RIB)</b></li><li>Uses <b>Import filters</b> to ensure that each member AS only advertises routes that it should advertise</li><li>Uses <b>Export filters</b> that are triggered by IXP members to restrict the set of other IXP member ASes that receive their routes</li></ol></div>"
                     ],
                     "guid": "NDrnnTG&hg",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -2409,7 +1541,7 @@
                     "__type__": "Note",
                     "fields": [
                         "What are three chief characteristics of IXPs?",
-                        "<div><div>1. They help mitigate DDoS attacks and stop the DDoS traffic before it hits a participant AS</div></div><div><div>2. They are active marketplaces and technology innovation hubs that go beyond interconnection</div></div><div><div>3. They are interconnection hubs that handle large traffic volumes -- some comparable to that of global Tier 1 ISPs</div></div>"
+                        "<div><ol><li>They help mitigate DDoS attacks and stop the DDoS traffic before it hits a participant AS</li><li>They are active marketplaces and technology innovation hubs that go beyond interconnection</li><li>They are interconnection hubs that handle large traffic volumes -- some comparable to that of global Tier 1 ISPs</li></ol></div>"
                     ],
                     "guid": "t~(q~F<W(/",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -2419,7 +1551,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Two chief characteristics of Peering relationships.",
-                        "<div><div>1. In a peering relationship, the traffic exchanged between the two peers <b>MUST be highly symetric</b> so that there is enough incentive for both parties to peer with each other.</div></div><div><div>2. Peering allows networks to have their traffic <b>forwarded without cost</b></div></div>"
+                        "<div><ol><li>In a peering relationship, the traffic exchanged between the two peers <b>MUST be highly symetric</b> so that there is enough incentive for both parties to peer with each other.</li><li>Peering allows networks to have their traffic <b>forwarded without cost</b></li></ol></div>"
                     ],
                     "guid": "DlN/o{M85J",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -2519,7 +1651,7 @@
                     "__type__": "Note",
                     "fields": [
                         "What are the two kinds of BGP UPDATE messages?",
-                        "announcement<br>withdrawl"
+                        "<ul><li>announcement</li><li>withdrawl</li></ul>"
                     ],
                     "guid": "kcj`!,Odqp",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -3528,153 +2660,6 @@
                 }
             ],
             "type": 1,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "11adc3fe-a760-11ed-8af1-a14d95925fac",
-            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
-            "flds": [
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "ID (hidden)",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Header",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Image",
-                    "ord": 2,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Question Mask",
-                    "ord": 3,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Footer",
-                    "ord": 4,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Remarks",
-                    "ord": 5,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Sources",
-                    "ord": 6,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra 1",
-                    "ord": 7,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra 2",
-                    "ord": 8,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Answer Mask",
-                    "ord": 9,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Original Mask",
-                    "ord": 10,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Image Occlusion Enhanced-243fc",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        2
-                    ]
-                ]
-            ],
-            "sortf": 1,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "\n{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "IO Card",
-                    "ord": 0,
-                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
-                }
-            ],
-            "type": 0,
             "vers": []
         },
         {
