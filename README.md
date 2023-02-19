@@ -19,3 +19,9 @@ Please feel free to fork and contribute to this repo I only ask that:
 If you would like to sign your commits you can use the same SSH key to sign your commits as youdo for pushing to your repo:
 
 [Creating a signing key using SSH and adding it to your Github Profile](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification#ssh-commit-signature-verification)
+
+After you are finished setting up signing you can ensure that all commits are signed automatically.
+
+```bash
+git config --global commit.gpgsign true
+```
