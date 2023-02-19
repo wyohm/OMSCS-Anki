@@ -6,9 +6,10 @@ This repo is for contributing to improve the materials. If you just want to down
 
 To contribute, modify/add notes in Anki, then export via the [CrowdAnki plugin](https://ankiweb.net/shared/info/1788670778) and make a pull request.
 
-Please feel free to fork my repo I only ask that:
+Please feel free to fork and contribute to this repo I only ask that:
 
 1. you use MathJax when creating equations as they do not create images and render on the fly.
 2. Please minimize the use of images if possible as I would like to keep the deck as accesslbe to those using screenreaders as much as humanly possible.
 3. When creating additional decks please use the following example naming schema when titling decks as this helps keep the deck organized into folders.
-- GA Tech OMSCS::CS250 Computer Networks::Lesson 1: Intro, History, and Internet Arch.
+
+- GA Tech OMSCS::Computer Networks::Lesson 1: Intro, History, and Internet Arch.
