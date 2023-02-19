@@ -2182,6 +2182,1137 @@
             ],
             "reviewLimit": null,
             "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "6b6b8c8e-b000-11ed-958b-77f34c5f6f8a",
+            "deck_config_uuid": "11ae97d4-a760-11ed-8af1-a14d95925fac",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Lesson 4: AS Relationships and Interdomain Routing",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Route Servers&nbsp;keep track of the BGP sessions they maintain with each participant AS through a?",
+                        "peer specific RIB"
+                    ],
+                    "guid": "sNY8U,&[D?",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What type of filters are applied to ensure that each member AS only advertises routes that it should advertise?",
+                        "Import filters"
+                    ],
+                    "guid": "C|&DHfT?&P",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What types of attacks are IXPs specifically adept at protecting against?",
+                        "DDoS (Distributed Denail of Service)"
+                    ],
+                    "guid": "rt22D}I,c^",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>Participating in an IXP is free.",
+                        "False"
+                    ],
+                    "guid": "L?Qi1.FZ[}",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>Critical players in todays' internet ecosystem \"incentivise\" IXPs.",
+                        "True"
+                    ],
+                    "guid": "Jz]-84dW5o",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>Route Servers are a available through membership with an IXP at an additional cost.",
+                        "False"
+                    ],
+                    "guid": "H5G&+wT}Hu",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>Private peering PIs DO NOT use IXPs public peering infrastructure.",
+                        "False"
+                    ],
+                    "guid": "jY;8>(Nw7x",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In the BGP protocol, destinations are represented by?",
+                        "IP Prefixes (CIDR notation)"
+                    ],
+                    "guid": "P]>j+}t0sc",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Flap Damping",
+                        "When an AS limits the number of routing changes, thus explicitly limiting the propagation of unstable routes."
+                    ],
+                    "guid": "p7qt;hmK~2",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The four reasons why networks choose to peer at IXPs?",
+                        "<div><div>1. They keep <b>local traffic local</b></div></div><div><div>2. They operate at a <b>lower cost</b></div><div>3. <b>Critical players</b> in today’s Internet ecosystem often “<b>incentivize</b>” other networks to connect at IXPs</div></div><div><div>4. Network performance is improved due to <b>reduced delay</b></div></div>"
+                    ],
+                    "guid": "eJF5IkqHfD",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are four services offered by IXPs?",
+                        "<div><div>1. <b>Public</b> Peering</div></div><div><div>2. <b>Private</b> Peering</div></div><div><div>3. <b>Remote</b> peering through resellers<br></div></div><div><div>4. <b>DDoS Blackholing</b></div></div>"
+                    ],
+                    "guid": "heL{j1Kful",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Route Filters",
+                        "Rules that determine which routes an AS's router should advertise to the routers of neighboring ASes."
+                    ],
+                    "guid": "zorn~[{Kbz",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4 examples of Interior Gateway Protocols (IGPs):",
+                        "<div><div>Open Shortest Paths First (OSPF)</div></div><div><div>Intermediate System - Intermediate System (IS-IS)</div></div><div><div>Routing Information Protocol (RIP)</div></div><div><div>Enhanced Interior Gateway Routing Protocol (E-IGRP)</div></div>"
+                    ],
+                    "guid": "J=)2byX$DF",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "KEEPALIVE",
+                        "<div><div>BGP ​messages are exchanged between peers to keep a current session going.</div></div><br>"
+                    ],
+                    "guid": "K(>@F,!;Qe",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>An AS can use the <b>LocalPref</b> attribute to control which routers are used as exit points (for outgoing traffic).",
+                        "<div><div>True</div></div>"
+                    ],
+                    "guid": "qG!DZdTw@;",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>An AS can use the <b>MED</b> attribute to control which routers are used as entry points (for the incoming traffic).",
+                        "<div><div>True</div></div>"
+                    ],
+                    "guid": "B_A@FQ#9P}",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>Autonomous Systems implement their own set of policies, make their own traffic engineering decisions and interconnection strategies, and determine how traffic leaves and enters the network.",
+                        "<div><div>True</div></div>"
+                    ],
+                    "guid": "F8QlAN6m~u",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the two types of BGP messages?",
+                        "UPDATE<br>KEEPALIVE"
+                    ],
+                    "guid": "CTt.SX);66",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div>T/F</div><div><br></div><div>The BGP protocol is used within an AS and focuses on optimizing a path metric within the network. Examples of BGP protocols are Open Shortest Paths First (OSPF) and Routing Information Protocol.</div></div>",
+                        "False"
+                    ],
+                    "guid": "udHyV3E~=6",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div>What are the three main things that are true about Provider-Customer relationships.</div></div>",
+                        "<div><div>1. Provider-Customer relationship (or transit) is based on a financial settlement that determines how much the customer will pay the provider</div></div><div><div>2. Provider ASes have a financial incentive to forward as much of their customers’ traffic as possible.</div></div><div>3. In a Provider-Customer relationship (or transit), the provider forwards the customer's traffic to destinations found in the provider's routing table (including the opposite direction of the traffic).<br></div>"
+                    ],
+                    "guid": "NMG=$o~nwP",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How is a multi-lateral BGP peering session maintained by an IXP route server?",
+                        "<div><div><div><div>1. Runs BGP independently with every participant AS and maintains a <b>participant Routing Information Base (RIB)</b></div></div><div><div>2. Uses <b>Import filters</b> to ensure that each member AS only advertises routes that it should advertise</div></div><div><div>3. Uses <b>Export filters</b> that are triggered by IXP members to restrict the set of other IXP member ASes that receive their routes</div></div></div></div>"
+                    ],
+                    "guid": "NDrnnTG&hg",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are three chief characteristics of IXPs?",
+                        "<div><div>1. They help mitigate DDoS attacks and stop the DDoS traffic before it hits a participant AS</div></div><div><div>2. They are active marketplaces and technology innovation hubs that go beyond interconnection</div></div><div><div>3. They are interconnection hubs that handle large traffic volumes -- some comparable to that of global Tier 1 ISPs</div></div>"
+                    ],
+                    "guid": "t~(q~F<W(/",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Two chief characteristics of Peering relationships.",
+                        "<div><div>1. In a peering relationship, the traffic exchanged between the two peers <b>MUST be highly symetric</b> so that there is enough incentive for both parties to peer with each other.</div></div><div><div>2. Peering allows networks to have their traffic <b>forwarded without cost</b></div></div>"
+                    ],
+                    "guid": "DlN/o{M85J",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The MED (Multi-Exit Discriminator) value is used by ASes connected by multiple links to prefer for ​what kind of traffic?",
+                        "Inbound"
+                    ],
+                    "guid": "yQ:-3WCvDN",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The <b>LocalPref</b> attribute is used to prefer routes learned through a specific AS over other ASes for ​traffic what kind of traffic.",
+                        "Outbound"
+                    ],
+                    "guid": "y}uB0Rob]K",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ASPATH",
+                        "This attribute prevents loops and is used to choose between multiple routes to the same destination, the route with the shortest path."
+                    ],
+                    "guid": "d%K+F7[7;b",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "NEXT HOP",
+                        "This attribute refers to the next-hop router's IP address (interface) along the path towards the destination."
+                    ],
+                    "guid": "L^BES/boP7",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Assume that AS X prefers routes advertised to AS Y to go through R1 as opposed to R2. For AS Y to be influenced to choose R1 to forward traffic to AS X, R1 must have a ​ ________ MED value, assuming that all other attributes are equal.",
+                        "Lower"
+                    ],
+                    "guid": "L_&#7_8S{E",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Autonimous System (AS)",
+                        "A group of routers that operate under ​the same administrative ​ domain."
+                    ],
+                    "guid": "fRJSWx=[:c",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>An ISP or CDN can operate on many autonimous systems.",
+                        "True"
+                    ],
+                    "guid": "s4h6O-8-2(",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Assume that AS X learns of a route to the same destination via AS Y and AS Z. If X prefers to route its traffic through Z due to peering or business, it can assign what kind of LocalPref value to routes it learns from Z, and thus using LocalPref, AS X can control where traffic exits the AS.",
+                        "Higher"
+                    ],
+                    "guid": "vv}&7sSLK4",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The internet topology has been evolving from a ​&nbsp; _ _ _ _ _ _ _ _ _ _ structure into a ​ _ _ _ _ _ _ _ _ _ _ structure.",
+                        "Heirarchical<br>Flat"
+                    ],
+                    "guid": "?G:b6l%3a",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the two kinds of BGP UPDATE messages?",
+                        "announcement<br>withdrawl"
+                    ],
+                    "guid": "kcj`!,Odqp",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Withdrawl messages",
+                        "Type of BGP UPDATE message<br><br>inform that receive that a previously announced route is no longer available. The removal could be due to some failure or a change in the routing policy."
+                    ],
+                    "guid": "ywf#xy/Z%W",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Announcement messages",
+                        "Type of BGP UPDATE message<br><br>messages that advertise new routes and updates to existing routes. They include several standardized attributes."
+                    ],
+                    "guid": "kItnn=@<wT",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Border Gateway Protocol (BGP)",
+                        "Border routers of the ASes use this protocol to exchange routing information with one another."
+                    ],
+                    "guid": "QfT=W?.$0%",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Interior Gateway Protocol (IGP)",
+                        "Routers within the same AS use this protocol to \"optimize a path metric\" <b>within</b> that AS.<br><br>Internal Router -&gt; Internal Router<br><br>Ex. RIP, OSPF, EIGRP"
+                    ],
+                    "guid": "iSVjMYn5.;",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "A router within an AS decides which route to export by first applying what policies to exclude routes entirely from further consideration.",
+                        "import policies"
+                    ],
+                    "guid": "HO-}(Hw+ZN",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is one technique that ASs can use to help limit routing table size.",
+                        "filtering"
+                    ],
+                    "guid": "Ntn.FYI]N0",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "A pair of routers, known as ​ (a) _ _ _ _ _ _ _ _ _ _ , exchange routing information over a semi-permanent TCP port connection called a ​ (b) _ _ _ _ _ _ _ _ _ _ . A BGP session between a pair of routers in two different ASes is called an ​ (c) _ _ _ _ _ _ _ _ _ _ session, and a BGP session between routers that belong to the same AS is called an ​ (d) _ _ _ _ _ _ _ _ _ _ session.",
+                        "<div>BGP peers</div><div>BGP session</div><div>external BGP (eBGP)</div><div>internal BGP (iBGP)</div>"
+                    ],
+                    "guid": "dE=uFMD<{E",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Participant AS",
+                        "&nbsp;The ASes that interconnect at an IXP."
+                    ],
+                    "guid": "Q.V|l%I>Eu",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Internet Exchange Point (IXP)",
+                        "Physical infrastructures that provide the means for ASes to interconnect and directly exchange traffic with one another."
+                    ],
+                    "guid": "x!ow{D)^lt",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the order of precidence for an AS to <b>import</b> the component's routes.",
+                        "<div><div>Customers</div></div><div><div>Peers</div></div><div><div>Providers</div></div>"
+                    ],
+                    "guid": "L!TQI;ueS@",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>iBGP is an IGP-like protocol (e.g., RIP or OSPF)",
+                        "False"
+                    ],
+                    "guid": "PTP1iq+5[@",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How does the LocalPref attribute affect routing priorities.",
+                        "<b>Higher LocalPref values increase the </b>prioirity<b> which routes are imported.</b>"
+                    ],
+                    "guid": "F92d0NCE#",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "LocalPref attribute",
+                        "<ul><li>Set by <b>Local AS<br></b></li><li><b>Higher</b> values <b>increase</b> the prioirity which routers are<b>&nbsp;</b>used as <b>Exit points</b> for outgoing traffic.</li></ul>"
+                    ],
+                    "guid": "j!Vl415%vh",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Multi-Exit Discriminator (MED) value",
+                        "<ul><li>Set by <b>Neighbor AS<br></b></li><li><b>Lower</b> values <b>increase</b> the prioirity which routers are&nbsp;used as <b>Entry points&nbsp;</b>for&nbsp;incoming traffic.</li></ul>"
+                    ],
+                    "guid": "qI8p:dggYO",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Interior Border Gateway Protocol (iBGP)",
+                        "Used to advertise routes coming&nbsp;<b>from</b> <b>External</b> routers&nbsp;<b>to</b>&nbsp;routers&nbsp;<b>Internal</b> to the AS."
+                    ],
+                    "guid": "kJxLGzZ{Sb",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "External Border Gateway Protocol (eBGP)",
+                        "Used to advertise routes <b>to routers&nbsp;External </b>to the AS."
+                    ],
+                    "guid": "P_}ZXK}1:#",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "6b6c2f4a-b000-11ed-958b-77f34c5f6f8a",
+            "deck_config_uuid": "11ae97d4-a760-11ed-8af1-a14d95925fac",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2023-02-18 at 2.24.32 PM.png",
+                "Screenshot 2023-02-18 at 2.53.11 PM.png"
+            ],
+            "name": "Lesson 5: Router Design and Algorithms (Part 1)",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are some reasons to use Multibit Tries with Variable-Length Strides?",
+                        "<ul><li>The <b>optimization</b> of stride length for each node <b>save trie memory</b> and have the <b>least memory accesses</b>.</li><li>Each node can have a different number of bits to be explored.</li><li>An <b>optimum variable</b> <b>stride</b> is selected by using <b>dynamic programming</b>.<br></li></ul>"
+                    ],
+                    "guid": "yl<-0{@CR8",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Key points of using Multibit Tries Fixed-Length Stride.",
+                        "<ul><li>Every element in a trie represents two pieces of information: a pointer and a prefix value.</li><li>The prefix search moves ahead with the preset length in n-bits<br></li><li>When the path is traced by a pointer, we remember the last matched prefix (if any).</li><li>Our search ends when an empty pointer is met. At that time, we return the last matched prefix as our final prefix match.<br></li></ul>"
+                    ],
+                    "guid": "GO=y`{,,HT",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What types of switching can send multiple packets across the fabric in parallel? ",
+                        "Interconnection Network / Crossbar"
+                    ],
+                    "guid": "d`hi?%W6_m",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\[\\displaylines{P1 =&gt; 101* \\\\\\\nP2 =&gt; 0*\\\\\\\nP3 =&gt; 1* \\\\\\\nP4 =&gt; 10101*}\\]<pre>Which one of the above does 100 align to?</pre>",
+                        "P3"
+                    ],
+                    "guid": "NvO%yk(DP_",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\[\\displaylines{P1 =&gt; 101* \\\\\\\nP2 =&gt; 0*\\\\\\\nP3 =&gt; 1* \\\\\\\nP4 =&gt; 10101*}\\]<pre>Which one of the above does 110 align to?</pre>",
+                        "P3"
+                    ],
+                    "guid": "c/<}yv|{&$",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\[\\displaylines{P1 =&gt; 101* \\\\\\\nP2 =&gt; 0*\\\\\\\nP3 =&gt; 1* \\\\\\\nP4 =&gt; 10101*}\\]<pre>Which one of the above does 111 align to?</pre>",
+                        "P3"
+                    ],
+                    "guid": "FyPlkD_iO:",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\[\\displaylines{P1 =&gt; 101* \\\\\\\nP2 =&gt; 0*\\\\\\\nP3 =&gt; 1* \\\\\\\nP4 =&gt; 10101*}\\]<pre>Which one of the above does 1011 align to?</pre>",
+                        "P1"
+                    ],
+                    "guid": "Ltf^yY9XdC",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dataplane Functions",
+                        "<ul><li><b>Forwarding</b> packets at Layer 3</li><li><b>Switching</b> packets at Layer 2</li><li><b>Decrementing</b> Time To Live (TTL)</li><li><b>Computing</b> an IP header checksum<br></li></ul>"
+                    ],
+                    "guid": "wgguYmdM!1",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Control plane functions",
+                        "<div><ul><li>Computing paths based on a protocol</li><li>Running protocols to build a routing table</li><li>Running the Spanning Tree Protocol</li><li>Running a protocol or logic to configure a middle box device for load balancing</li></ul></div>"
+                    ],
+                    "guid": "iLmsDM-*<%",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "unibit trie address lookup worst case (Big O)",
+                        "n"
+                    ],
+                    "guid": "Aa6DPOpfgt",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "imput port functionalities",
+                        "<div><ul><li>The input ports perform the lookup function. At this point, the input ports consult the forwarding table to ensure that each packet is forwarded to the appropriate output port through the switch fabric.</li><li>It acts as the data link processing unit decapsulates the packet.</li><li>The input ports physically terminate the incoming links to the router.</li></ul></div>"
+                    ],
+                    "guid": "H_`{G*]QxJ",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Four main components of a router?",
+                        "<div><ul><li>Switch fabric</li><li>Output Port</li><li>Input port</li><li>Routing Processor</li></ul></div><div><div></div></div>"
+                    ],
+                    "guid": "yhd9G6&?)!",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The advantage of a multibit trie vs a unibit trie is?",
+                        "A <b>multibit trie is ​​shorter</b> than a unibit trie representing the same prefix database and <b>requires ​fewer</b> <b>memory accesses</b> to perform a lookup."
+                    ],
+                    "guid": "qlS*Iv}K7i",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the mask for the address 192.168.0.1/24.",
+                        "255.255.255.0"
+                    ],
+                    "guid": "I;zi,{QnQ*",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the mask for the address 192.168.0.1/16.",
+                        "255.255.0.0"
+                    ],
+                    "guid": "JB66l)=CaL",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the mask for the address 192.168.0.1/8.",
+                        "255.0.0.0"
+                    ],
+                    "guid": "w9i2Bm{mXe",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In Switching via memory, Input/Output ports operate as I/O device in an operating system and controlled by what?",
+                        "Routing Processor"
+                    ],
+                    "guid": "b9fWwh[WB*",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In Switching via bus, the routing processor does what?",
+                        "Intervenes in the operation just like switching via memory.<br><br>When packets arrive at the designated output port, all the packets can cross the bus at a given time."
+                    ],
+                    "guid": "3I&&!o<j:",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "multibit trie characteristics",
+                        "<div><ul><li>Each node has 2<sup>k</sup>&nbsp;children</li><li>Implement lookups using a stride</li><li>Can perform multi-bit lookups per step</li></ul></div>"
+                    ],
+                    "guid": "b)av&EZIVg",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "3 types of Switch fabric",
+                        "<div><ul><li>Memory</li><li>Crossbar (Interconnection Network)</li><li>Bus</li></ul></div>"
+                    ],
+                    "guid": "e5iZ;].4aU",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the most time-sensitive tasks performed by the router?",
+                        "<div><ul><li>Switching</li><li>Lookup</li><li>Scheduling/Queuing</li></ul></div>"
+                    ],
+                    "guid": "x2JzaNpp,I",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>The routing protocols such as RIP, OSPF, and BGP are implemented in the routing processors.",
+                        "True"
+                    ],
+                    "guid": "d?O4sw_#q~",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Forwarding Function",
+                        "The router’s action to transfer a packet from an input link interface to the appropriate output link interface. Forwarding occurs at very short timescales (typically a few nanoseconds) and is typically implemented in software."
+                    ],
+                    "guid": "k%Lf})V)h2",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What do routers use Simple Network Management Protocol (SNMP) for?",
+                        "storing and modifying information (e.g. counters) about the router for remote inspection"
+                    ],
+                    "guid": "cl.gw|pH:H",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What protocol do routers use for remote communication with the router?",
+                        "TCP/UDP"
+                    ],
+                    "guid": "Da;8llIB!;",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What protocol do routers use for storing and modifying information (e.g. counters) about the router for remote inspection?",
+                        "Simple Network Management Protocol (SNMP)"
+                    ],
+                    "guid": "mn?ynL(J`E",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What protocol do routers use for sending error messages, e.g. when TTL expires?<br>",
+                        "Internet Control Message Protocol (ICMP)"
+                    ],
+                    "guid": "uPL=,.gqxV",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"Screenshot 2023-02-18 at 2.24.32 PM.png\"><br>Given the above variable-stride multibit trie.<div>Which node corresponds to 1111*?</div>",
+                        "n15"
+                    ],
+                    "guid": "m;.L~]ZA|B",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"Screenshot 2023-02-18 at 2.24.32 PM.png\"><br>Given the above variable-stride multibit trie.<div>Which node corresponds to 0110*?</div>",
+                        "n8"
+                    ],
+                    "guid": "kG`SDb4WTu",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"Screenshot 2023-02-18 at 2.24.32 PM.png\"><br>Given the above variable-stride multibit trie.<div>Which node corresponds to 011*?</div>",
+                        "n8 and n9"
+                    ],
+                    "guid": "q+v)KY|oBj",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"Screenshot 2023-02-18 at 2.24.32 PM.png\"><br>Given the above variable-stride multibit trie.<div>Which node corresponds to 110*?</div>",
+                        "n12 and n13"
+                    ],
+                    "guid": "D`E<iyq3W4",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div>T/F</div><div><br></div><div>For Switching via interconnection network or crossbar, crossbar network can carry multiple packets at the same time, as long as they are using different input and output ports. For example, packets can go from A-to-Y and B-to-X simultaneously.</div></div>",
+                        "True"
+                    ],
+                    "guid": "k(4GMJYN|Y",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>T/F</div><div><br></div><div><div><div>Fixed-length multibit tries can support an arbitrary number of prefix lengths.</div></div></div>",
+                        "False"
+                    ],
+                    "guid": "o}5^;1dHK8",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>T/F</div><div><br></div><div><div><div>In the Unitbit Tries algorithm, if a prefix is a substring of another prefix, we should select the path that matches with the smaller substring.</div></div></div>",
+                        "False"
+                    ],
+                    "guid": "sr42FF#Eer",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><img src=\"Screenshot 2023-02-18 at 2.53.11 PM.png\"><br></div><div>Consider the above unibit trie. What node matches with 00*?</div>",
+                        "a"
+                    ],
+                    "guid": "g@2TfVGI-3",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><img src=\"Screenshot 2023-02-18 at 2.53.11 PM.png\"><br></div><div>Consider the above unibit trie. What node matches with 1*?</div>",
+                        "b"
+                    ],
+                    "guid": "F(2+808B.8",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><img src=\"Screenshot 2023-02-18 at 2.53.11 PM.png\"><br></div><div>Consider the above unibit trie. What node matches with 01*?</div>",
+                        "c"
+                    ],
+                    "guid": "yCcsI^KfAG",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><img src=\"Screenshot 2023-02-18 at 2.53.11 PM.png\"><br></div><div>Consider the above unibit trie. What node matches with 0000*?</div>",
+                        "e"
+                    ],
+                    "guid": "o$`9NS{hUC",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><img src=\"Screenshot 2023-02-18 at 2.53.11 PM.png\"><br></div><div>Consider the above unibit trie. What node matches with 00011*?</div>",
+                        "h"
+                    ],
+                    "guid": "EMp!&:RUqn",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div>Which plane operates on a shorter timescale?</div></div>",
+                        "data"
+                    ],
+                    "guid": "kEJf!N9.kB",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div><br>In the UnitBit Tries, The nodes with only one pointer each are what kind of branches?<br></div></div>",
+                        "one-way<br><br>&nbsp;For efficiency, we compress these branches to a single text string with 2 bits."
+                    ],
+                    "guid": "HR`L|usu#G",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div>Name one of the functions of the router that implement the routing protocols, maintain the routing tables and computing the forwarding table. All those functions are implemented in the software in the routing processor.</div></div><br>",
+                        "<div>Router Forwarding plane function<br></div><br>"
+                    ],
+                    "guid": "OTpn9;sW^=",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div><div><div>What IP addressing model uses fixed-length prefixes.</div></div></div></div>",
+                        "<div>Class addressing</div>"
+                    ],
+                    "guid": "wqg]0([}RQ",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div><div><div>What IP addressing model uses arbitrary-length prefixes.</div></div></div></div>",
+                        "Classless Internet Domain Routing (CIDR)"
+                    ],
+                    "guid": "FFL*WMNpsP",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What new problem has CIDR addressing introduced?",
+                        "longest-matching prefix lookup"
+                    ],
+                    "guid": "m,/CCE$[Oy",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How has CIDR addressing solved a problem with classful addressing?",
+                        "decreased router table size"
+                    ],
+                    "guid": "nagLX(pRus",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "he data plane functions of a traditional router are implemented in ​what part of the router?",
+                        "hardware"
+                    ],
+                    "guid": "Aa*fn<fulL",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The control plane functions are implemented in what part of the router?",
+                        "software"
+                    ],
+                    "guid": "OJoS6J!rx)",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In a unibit trie If a prefix is a substring of another prefix how to we store it?",
+                        "The smaller string is stored in the path to the longer (more specific prefix)"
+                    ],
+                    "guid": "J.rUP0%Dd`",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Unibit trie - Prefix Match Steps",
+                        "<ol><li>We begin the search for a longest prefix match by tracing the trie path.</li><li>We continue the search until we fail (no match or an empty pointer)</li><li>When our search fails, the last known successful prefix traced in the path is our match and our returned value.</li></ol>"
+                    ],
+                    "guid": "B>fDoBnq7e",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "types of prefix notation",
+                        "<div><ol><li>Dot Decimal</li><li>Slash Notation</li><li>Masking</li></ol></div>"
+                    ],
+                    "guid": "vFqzR[p8$p",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Slash Notation",
+                        "<div>Standard notation: A/L (where A=Address, L=Length)</div><div>Example: 132.238.0.0/16</div><div>16 bits for prefixing</div>"
+                    ],
+                    "guid": "rOH@x?LNQ[",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Masking",
+                        "255.0.0.0 = 8 bit prefix<br>255.255.0.0 = 16 bit prefix<br>255.255.255.0 = 24 bit prefix"
+                    ],
+                    "guid": "Bum*CT;.d6",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dot Decimal",
+                        "<div>The binary prefix of 132.234: 1000010011101010*</div><div>The * indicates wildcard character to say that the remaining bits do not matter.</div>"
+                    ],
+                    "guid": "w{-7}tdz0x",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How do we handle a colision during prefix expansion?",
+                        "<div>The expanded prefix gets dropped.<br><br>If P6=1000* collides with P7=100000* then P6 (shorter prefix) gets removed.<br><br>The * indicates wildcard character to say that the remaining bits do not matter.<br></div>"
+                    ],
+                    "guid": "HANUKkP=&e",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\[\\displaylines{P1 =&gt; 101* \\\\\\\nP2 =&gt; 0*\\\\\\\nP3 =&gt; 1* \\\\\\\nP4 =&gt; 10101*}\\]Expanding each prefix with a stride length of 3.<br><br>What prefixes would be associated with P3?",
+                        "110*, 100*, and 111*"
+                    ],
+                    "guid": "e@Bh#jiN$",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\[\\displaylines{P1 =&gt; 101* \\\\\\\nP2 =&gt; 0*\\\\\\\nP3 =&gt; 1* \\\\\\\nP4 =&gt; 10101*}\\]Expanding each prefix with a stride length of 3.<br><br>What prefixes would be associated with P2?",
+                        "000*, 010*, 001*, and 011*"
+                    ],
+                    "guid": "yn)Pd~Yq$(",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\[\\displaylines{P1 =&gt; 101* \\\\\\\nP2 =&gt; 0*\\\\\\\nP3 =&gt; 1* \\\\\\\nP4 =&gt; 10101*}\\]Expanding each prefix with a stride length of 3.<br><br>What prefixes would be associated with P1?<br>",
+                        "101*"
+                    ],
+                    "guid": "MmS7xr,S,g",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Rules for Multibit Tries - Fixed Stride",
+                        "<ol><li>Every element in a trie represents two pieces of information: a pointer and a prefix value.</li><li>The prefix search moves ahead with the preset length in n-bits (3 in this case)&nbsp;</li><li>When the path is traced by a pointer, we remember the last matched prefix (if any).<br></li><li>Our search ends when an empty pointer is met. At that time, we return the last matched prefix as our final prefix match.</li></ol><br>"
+                    ],
+                    "guid": "sN`6Nf@9bx",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Rules for Multibit Tries - Variable Stride",
+                        "<div><ol><li>Every node can have a different number of bits to be explored.</li><li>The optimizations to the stride length for each node are all done to save trie memory and the least memory accesses.</li><li>An optimum variable stride is selected by using dynamic programming</li></ol></div>"
+                    ],
+                    "guid": "NM{[i]U/mo",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "prefix expansion",
+                        "<ul><li>We expand all prefixes to the length of the stride length give all permutations of the missing bits to expand it up to the stride length.<br></li><li>We do this thereby removeing all lengths that are not multiples of the chosen stride length.</li><li>We end up with a new database of prefixes, which may be larger (in terms of the actual number of prefixes) but with fewer lengths.</li><li>The expansion gives us more speed with an increased cost of the database size.</li></ul>"
+                    ],
+                    "guid": "Q/ld~4|&9L",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "11ad048c-a760-11ed-8af1-a14d95925fac",
@@ -2591,7 +3722,7 @@
             ],
             "tmpls": [
                 {
-                    "afmt": "{{Back}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -2599,7 +3730,7 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "{{Front}}"
+                    "qfmt": "{{Deck}}<br>\n{{Front}}"
                 }
             ],
             "type": 0,
