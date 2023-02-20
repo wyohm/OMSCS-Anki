@@ -2988,20 +2988,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 5: Router Design and Algorithms</h1>\n<h2>\n  The Challenges Routers Face\n</h2>\n<div>Router Bottlenecks:<br><ul><li>{{c1::Longest prefix matching}}: {{c2::algorithms for efficient longest prefix matching are complex}}</li><li>{{c1::Service differentiation}}: {{c3::quality-of-service (or security guarantees) requires routers to classify packets}}</li><li>{{c1::Switching limitations}}: {{c4::At high speeds even crossbar switching has limitations (e.g., head of line blocking)}}</li><li>{{c1::Bottlenecks about services}}: {{c5::Providing performance guarantees (quality of service) at high speeds is nontrivial}}</li></ul></div>",
-                        ""
-                    ],
-                    "guid": "p*F5T.}UMq",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson05",
-                        "lesson_quiz"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "<h1>Lesson 5: Router Design and Algorithms</h1>\n<h2>\n  Prefix-Match Lookups\n</h2>\n<div>The different ways to denote prefix are:</div><div><ul><li>{{c1::Dot decimal}}</li><ul><li>{{c2::Example of the 16-bit prefix: 132.234}}</li></ul><li>{{c1::Slash notation}}</li><ul><li>{{c3::Standard notation: A/L (where A=Address, L=Length)<br>Example: 132.238.0.0/16<br>Here, 16 denotes that only the first 16 bits are relevant for prefixing}}</li></ul><li>{{c1::Masking}}</li><ul><li>{{c4::Example: The prefix 123.234.0.0/16 is written as 123.234.0.0 with a mask 255.255.0.0}}</li></ul></ul></div>",
                         ""
                     ],
@@ -3227,6 +3213,56 @@
                         "lesson05",
                         "lesson_quiz"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Name the four major router bottlenecks.",
+                        "<div>Lethal Snakes Squeeze Bread</div><ul><li><b>Longest</b> prefix matching</li><li><b>Service</b> differentiation</li><li><b>Switching</b> limitations</li><li><b>Bottlenecks</b> about services</li></ul>"
+                    ],
+                    "guid": "j:2`<jpxCj",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why is Longest prefix matching a router bottleneck?",
+                        "Algorithms for efficient longest prefix matching are complex."
+                    ],
+                    "guid": "CXw&>gUbh",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why is&nbsp;Service differentiation a router bottleneck?",
+                        "Quality-of-service (or security guarantees) requires routers to classify packets."
+                    ],
+                    "guid": "JcczRE2WLF",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why are Switching limitations a router bottleneck?",
+                        "At high speeds even crossbar switching has limitations (e.g., head of line blocking)"
+                    ],
+                    "guid": "NNvmI/;04[",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why could delivering services be a router bottleneck?",
+                        "Providing performance guarantees (quality of service) at high speeds is nontrivial."
+                    ],
+                    "guid": "B0@$;e->tR",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
                 }
             ]
         },
@@ -8831,7 +8867,7 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "{{Deck}}<br>\n{{Front}}"
+                    "qfmt": "{{Deck}}<br><br>\n{{Front}}"
                 }
             ],
             "type": 0,
@@ -8876,7 +8912,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "OMSCS Replace",
+            "name": "OMSCS Replace-e9615",
             "req": [
                 [
                     0,
@@ -9024,11 +9060,11 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-57578",
             "req": [
                 [
                     0,
-                    "all",
+                    "any",
                     [
                         2
                     ]
