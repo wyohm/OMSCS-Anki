@@ -34,12 +34,6 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-*.pyc
-__pycache
-
-# draw.io backup files
-######################
-*.dtmp
 
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,visualstudiocode,jetbrains,linux,xcode
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,visualstudiocode,jetbrains,linux,xcode
