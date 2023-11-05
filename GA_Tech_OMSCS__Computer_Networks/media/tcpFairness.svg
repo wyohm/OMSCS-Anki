@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="900" version="1.1" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<marker id="marker8" overflow="visible" markerHeight="1" markerWidth="1" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+			<path transform="scale(.5)" d="m5.77 0-8.65 5v-10z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+		</marker>
+		<marker id="marker5" overflow="visible" markerHeight="1" markerWidth="1" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+			<path transform="scale(.5)" d="m5.77 0-8.65 5v-10z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+		</marker>
+		<marker id="marker3" overflow="visible" markerHeight="1" markerWidth="1" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+			<path transform="scale(.5)" d="m5.77 0-8.65 5v-10z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+		</marker>
+		<marker id="Triangle" overflow="visible" markerHeight="1" markerWidth="1" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+			<path transform="scale(.5)" d="m5.77 0-8.65 5v-10z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+		</marker>
+	</defs>
+	<g>
+		<g fill="none">
+			<path d="m417.84 114.19 582.64 537.23" stroke="#ff8a28" stroke-width="4"/>
+			<path d="m416.55 652.72 574.86-525.55" marker-end="url(#marker5)" stroke="#0cb" stroke-width="4"/>
+			<path d="m412.65 652.72h663.1" marker-end="url(#marker3)" stroke="#000" stroke-width="6"/>
+			<path d="m412.65 648.82v-604.7" marker-end="url(#Triangle)" stroke="#000" stroke-width="6"/>
+			<g stroke="#0cb" stroke-width="3">
+				<path d="m747.45 572.26 147.93-127.17" marker-end="url(#marker8)"/>
+				<g>
+					<path d="m882.4 442.5-163.5 81.752" marker-end="url(#marker8)" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+					<path d="m709.81 516.46 140.15-123.28" marker-end="url(#marker8)" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+					<path d="m838.28 388-168.69 83.049" marker-end="url(#marker8)" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+					<path d="m666.99 459.37 145.34-121.98" marker-end="url(#marker8)" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+				</g>
+			</g>
+		</g>
+		<text x="524.24982" y="738.36169" fill="#000000" font-family="sans-serif" font-size="32px" marker-end="url(#marker8)" stroke="#000000" style="font-variation-settings:normal" xml:space="preserve"><tspan x="524.24982" y="738.36169">Connection 1 throughput</tspan></text>
+		<text transform="rotate(-90)" x="-584.86285" y="361.43796" fill="#000000" font-family="sans-serif" font-size="32px" marker-end="url(#marker8)" stroke="#000000" style="font-variation-settings:normal" xml:space="preserve"><tspan x="-584.86285" y="361.43796">Connection 2 throughput</tspan></text>
+		<g fill="#00ccbb" font-family="sans-serif" font-size="32px" stroke="#00ccbb">
+			<text x="711.11108" y="603.40631" marker-end="url(#marker5)" stop-color="#000000" style="font-variation-settings:normal" xml:space="preserve"><tspan x="711.11108" y="603.40631">A</tspan></text>
+			<text x="920.03241" y="438.60504" marker-end="url(#marker5)" style="font-variation-settings:normal" xml:space="preserve"><tspan x="920.03241" y="438.60504">B</tspan></text>
+			<text x="678.66992" y="559.28632" marker-end="url(#marker5)" style="font-variation-settings:normal" xml:space="preserve"><tspan x="678.66992" y="559.28632">C</tspan></text>
+			<text x="875.91241" y="382.80615" marker-end="url(#marker5)" style="font-variation-settings:normal" xml:space="preserve"><tspan x="875.91241" y="382.80615">D</tspan></text>
+		</g>
+		<g>
+			<rect x="974.44" y="213.6" width="411.54" height="66.726" ry="19.065" fill="#0cb" marker-end="url(#marker5)" stroke="#0cb" stroke-width=".87512" style="font-variation-settings:normal"/>
+			<path d="m984.91 250.45-131.06 15.572 134.96 3.893z" fill="#0cb" marker-end="url(#marker5)" stop-color="#000000" stroke="#0cb" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+			<rect x="560.55" y="65.989" width="285.54" height="96.251" ry="21.931" fill="#ff8a28" marker-end="url(#marker5)" stop-color="#000000" stroke="#ff8a28" stroke-width=".93565" style="font-variation-settings:normal"/>
+			<g>
+				<path d="m578.75 115.49c-14.274 5.1906-111.6 28.548-111.6 28.548l128.47-1.2976z" fill="#ff8a28" marker-end="url(#marker5)" stop-color="#000000" stroke="#ff8a28" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+				<text x="1004.3796" y="256.9343" fill="#ffffff" font-family="sans-serif" font-size="32px" marker-end="url(#marker5)" stroke="#ffffff" style="-inkscape-stroke:none;font-variation-settings:normal" xml:space="preserve"><tspan x="1004.3796" y="256.9343">Equal bandwidth share</tspan></text>
+				<text x="590.42987" y="106.40714" fill="#ffffff" font-family="sans-serif" font-size="32px" marker-end="url(#marker5)" stroke="#ffffff" style="-inkscape-stroke:none;font-variation-settings:normal" xml:space="preserve"><tspan x="590.42987" y="106.40714">Full bandwidth</tspan><tspan x="590.42987" y="146.40714">utilization line</tspan></text>
+			</g>
+		</g>
+	</g>
+</svg>
